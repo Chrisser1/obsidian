@@ -1,0 +1,5 @@
+- $V$ er et indreprodukt­rum $\langle \cdot, \cdot \rangle$, oftest $V = \mathbb{R}^3$
+- $\alpha$: $V_1, V_2, V_3, \dots, V_n$ en basis for $V$
+- $\beta$: $U_1, U_2, U_3, \dots, U_n$ en ONB for $V$
+- $n = \dim V$
+- $U$ er unitær (reel ort.) hvis og kun hvis $U$'s søjler er en ONB for $\mathbb{C}^n$
