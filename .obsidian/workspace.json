@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "orbitals",
+                "query": "vale",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,12 +182,12 @@
   },
   "active": "f04814b20790dcbd",
   "lastOpenFiles": [
-    "Kemi/Quantum mechanics/Periodic properties of the elements.md",
+    "Kemi/Quantum mechanics/Electron configuration and the periodic table.md",
     "Kemi/Quantum mechanics/Electron configurations and valence electrons.md",
+    "Kemi/Quantum mechanics/Periodic properties of the elements.md",
     "Kemi/Quantum mechanics/The electromagnetic spectrum.md",
     "Kemi/Quantum mechanics/The quantum model.md",
     "Kemi/Quantum mechanics/The wave nature of matter.md",
-    "Kemi/Quantum mechanics/Electron configuration and the periodic table.md",
     "Pasted image 20250810120201.png",
     "Pasted image 20250810120139.png",
     "Pasted image 20250810120006.png",

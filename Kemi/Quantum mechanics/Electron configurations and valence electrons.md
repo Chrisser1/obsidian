@@ -1,5 +1,5 @@
 ## Hund's rule
-* If empty orbitals of the same energy are available, electrons singly occupy orbitals rather than pairing together.
+* If empty orbitals of the same energy (degenerate) are available, electrons singly occupy orbitals rather than pairing together.
 
 ## Valence electrons and the octet rule
 ![[Pasted image 20250810112029.png]]
