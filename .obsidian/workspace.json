@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Quantum mechanics/Electron configurations and valence electrons.md",
+                "file": "Kemi/Quantum mechanics/Electron configuration and the periodic table.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Electron configurations and valence electrons"
+              "title": "Electron configuration and the periodic table"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,8 +157,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -176,27 +175,28 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "f04814b20790dcbd",
   "lastOpenFiles": [
-    "Kemi/Quantum mechanics/Electron configuration and the periodic table.md",
     "Kemi/Quantum mechanics/Electron configurations and valence electrons.md",
     "Kemi/Quantum mechanics/Periodic properties of the elements.md",
     "Kemi/Quantum mechanics/The electromagnetic spectrum.md",
     "Kemi/Quantum mechanics/The quantum model.md",
     "Kemi/Quantum mechanics/The wave nature of matter.md",
-    "Pasted image 20250810120201.png",
-    "Pasted image 20250810120139.png",
-    "Pasted image 20250810120006.png",
-    "Pasted image 20250810115927.png",
-    "Pasted image 20250810115818.png",
-    "Pasted image 20250810115754.png",
-    "Pasted image 20250810115629.png",
-    "Pasted image 20250810115602.png",
-    "Pasted image 20250810115440.png",
-    "Pasted image 20250810115439.png",
+    "images/Pasted image 20250810120201.png",
+    "images/Pasted image 20250810114113.png",
+    "Kemi/Quantum mechanics/Electron configuration and the periodic table.md",
+    "images/Pasted image 20250810120139.png",
+    "images/Pasted image 20250810120006.png",
+    "images/Pasted image 20250810115927.png",
+    "images/Pasted image 20250810115818.png",
+    "images/Pasted image 20250810115754.png",
+    "images/Pasted image 20250810115629.png",
+    "images/Pasted image 20250810115602.png",
+    "images/Pasted image 20250810115440.png",
     "Mat1B/Funktioner-1/Scalar functions.md",
     "Kemi/Quantum mechanics",
     "Mat1B/Funktioner-1/Partial differential.md",
