@@ -14,4 +14,10 @@
 
 ## Polyatomic ions and formal charge
 * `Polyatomic ions` groups of atoms with an overall charge.
+* `Formal charge` a method of identifying charge sites.
 ![[Pasted image 20250811111151.png]]
+
+## Formal charge
+![[Pasted image 20250811111747.png]]
+![[Pasted image 20250811112135.png]]
+![[Pasted image 20250811112210.png]]
