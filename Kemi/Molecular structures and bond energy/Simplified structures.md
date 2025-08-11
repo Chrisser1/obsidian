@@ -20,3 +20,4 @@
 
 ## Example
 ![[Pasted image 20250811120454.png]]
+![[Pasted image 20250811120512.png]]
