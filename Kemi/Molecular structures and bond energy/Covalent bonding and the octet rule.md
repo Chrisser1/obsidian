@@ -21,3 +21,9 @@
 ![[Pasted image 20250811111747.png]]
 ![[Pasted image 20250811112135.png]]
 ![[Pasted image 20250811112210.png]]
+
+### Hydrogen and nitrogen charges
+![[Pasted image 20250811112505.png]]
+
+### Example
+![[Pasted image 20250811112546.png]]
