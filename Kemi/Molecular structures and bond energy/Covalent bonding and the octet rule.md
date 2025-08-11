@@ -6,3 +6,12 @@
 ![[Pasted image 20250811110007.png]]
 ![[Pasted image 20250811110350.png]]
 
+## Incomplete octets
+![[Pasted image 20250811110702.png]]
+* `Free radical` a module that has an unpaired electron.
+## Expanded octets
+![[Pasted image 20250811110928.png]]
+
+## Polyatomic ions and formal charge
+* `Polyatomic ions` groups of atoms with an overall charge.
+![[Pasted image 20250811111151.png]]
