@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Intermolecular forces, liquids and solids/Crystal lattices.md",
+                "file": "Kemi/Intermolecular forces, liquids and solids/Mixtures and solubility.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crystal lattices"
+              "title": "Mixtures and solubility"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "solub",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -224,8 +225,9 @@
   },
   "active": "33141918959d7b70",
   "lastOpenFiles": [
-    "Kemi/Intermolecular forces, liquids and solids/Enthalpy and phase changes.md",
     "Kemi/Intermolecular forces, liquids and solids/Crystal lattices.md",
+    "Kemi/Intermolecular forces, liquids and solids/Untitled.md",
+    "Kemi/Intermolecular forces, liquids and solids/Enthalpy and phase changes.md",
     "Kemi/Intermolecular forces, liquids and solids/Classifying liquids and solids.md",
     "Kemi/Molecular structures and bond energy/Energi and ionic bonds.md",
     "Kemi/Intermolecular forces, liquids and solids/Mixtures and solubility.md",
