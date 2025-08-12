@@ -6,3 +6,4 @@
 ## Polarity and solubility
 ![[Pasted image 20250812111904.png]]
 ![[Pasted image 20250812111918.png]]
+![[Pasted image 20250812113610.png]]
