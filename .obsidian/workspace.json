@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Intermolecular forces, liquids and solids/Phase diagrams.md",
+                "file": "Kemi/Intermolecular forces, liquids and solids/Vapor pressure and boiling point.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phase diagrams"
+              "title": "Vapor pressure and boiling point"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "polar",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -224,11 +224,16 @@
   },
   "active": "33141918959d7b70",
   "lastOpenFiles": [
+    "images/Pasted image 20250812122609.png",
+    "images/Pasted image 20250812122506.png",
+    "images/Pasted image 20250812122307.png",
+    "images/Pasted image 20250812122305.png",
+    "Kemi/Intermolecular forces, liquids and solids/Phase diagrams.md",
+    "Kemi/Intermolecular forces, liquids and solids/Vapor pressure and boiling point.md",
     "images/Pasted image 20250812121517.png",
     "images/Pasted image 20250812121436.png",
     "images/Pasted image 20250812121350.png",
     "Kemi/Intermolecular forces, liquids and solids/Enthalpy and phase changes.md",
-    "Kemi/Intermolecular forces, liquids and solids/Phase diagrams.md",
     "images/Pasted image 20250812121257.png",
     "Kemi/Intermolecular forces, liquids and solids/Intermolecular forces.md",
     "Kemi/Intermolecular forces, liquids and solids/Mixtures and solubility.md",
@@ -241,10 +246,6 @@
     "images/Pasted image 20250812120203.png",
     "images/Pasted image 20250812120140.png",
     "images/Pasted image 20250812120015.png",
-    "images/Pasted image 20250812115709.png",
-    "images/Pasted image 20250812115632.png",
-    "images/Pasted image 20250812115257.png",
-    "images/Pasted image 20250812114741.png",
     "conflict-files-obsidian-git.md",
     "Kemi/Intermolecular forces, liquids and solids",
     "Kemi/Molecular structures and bond energy/Valance overlap model.md",
@@ -262,7 +263,6 @@
     "Kemi/Quantum mechanics",
     "Mat1B/Funktioner-1/Partial differential.md",
     "Mat1B/Funktioner-1/Orthogonality (ortogonele).md",
-    "Mat1B/Funktioner-1/Distance between vectors.md",
     "02105-Algorithms-and-Data-Structures/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf"
   ]
 }
