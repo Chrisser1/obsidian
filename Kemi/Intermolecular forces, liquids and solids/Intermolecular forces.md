@@ -13,3 +13,9 @@
 ![[Pasted image 20250812094636.png]]
 
 ## Hydrogen bonding
+* `Hydrogen bond`a strong intermolecular force between molecules containing H-F, H-O or H-N bonds. (e.g. water)
+![[Pasted image 20250812094840.png]]
+![[Pasted image 20250812095245.png]]
+
+## Surface tension
+* The tendency of some liquids to minimize surface area.
