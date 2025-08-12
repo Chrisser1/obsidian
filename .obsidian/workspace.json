@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Intermolecular forces, liquids and solids/Crystal lattices.md",
+                "file": "Kemi/Intermolecular forces, liquids and solids/Mixtures and solubility.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crystal lattices"
+              "title": "Mixtures and solubility"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ion dipole",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -224,24 +225,23 @@
   },
   "active": "33141918959d7b70",
   "lastOpenFiles": [
-    "images/Pasted image 20250812125539.png",
-    "images/Pasted image 20250812125512.png",
-    "images/Pasted image 20250812125442.png",
-    "images/Pasted image 20250812125406.png",
-    "images/Pasted image 20250812125319.png",
-    "images/Pasted image 20250812125259.png",
-    "images/Pasted image 20250812125242.png",
-    "images/Pasted image 20250812125209.png",
-    "images/Pasted image 20250812125159.png",
-    "Kemi/Intermolecular forces, liquids and solids/Classifying liquids and solids.md",
+    "Kemi/Intermolecular forces, liquids and solids/Intermolecular forces.md",
     "Kemi/Intermolecular forces, liquids and solids/Crystal lattices.md",
-    "images/Pasted image 20250812124753.png",
-    "images/Pasted image 20250812124601.png",
+    "images/Pasted image 20250812130315.png",
+    "images/Pasted image 20250812130259.png",
+    "images/Pasted image 20250812130223.png",
+    "images/Pasted image 20250812125930.png",
+    "images/Pasted image 20250812125927.png",
+    "images/Pasted image 20250812125912.png",
+    "images/Pasted image 20250812125856.png",
+    "images/Pasted image 20250812125837.png",
+    "images/Pasted image 20250812125753.png",
+    "images/Pasted image 20250812125715.png",
+    "Kemi/Intermolecular forces, liquids and solids/Classifying liquids and solids.md",
+    "Kemi/Intermolecular forces, liquids and solids/Enthalpy and phase changes.md",
     "Kemi/Molecular structures and bond energy/Energi and ionic bonds.md",
     "Kemi/Intermolecular forces, liquids and solids/Vapor pressure and boiling point.md",
     "Kemi/Intermolecular forces, liquids and solids/Phase diagrams.md",
-    "Kemi/Intermolecular forces, liquids and solids/Enthalpy and phase changes.md",
-    "Kemi/Intermolecular forces, liquids and solids/Intermolecular forces.md",
     "Kemi/Intermolecular forces, liquids and solids/Mixtures and solubility.md",
     "Kemi/Molecular structures and bond energy/Polar bonds and molecules.md",
     "Kemi/Molecular structures and bond energy/Resonance.md",
