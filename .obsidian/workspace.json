@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Solitions/Molarity, molality and mole fraction.md",
+                "file": "Kemi/Solitions/Factors that affect solubility.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Molarity, molality and mole fraction"
+              "title": "Factors that affect solubility"
             }
           }
         ],
@@ -224,21 +224,22 @@
   },
   "active": "33141918959d7b70",
   "lastOpenFiles": [
+    "images/Pasted image 20250812143647.png",
+    "images/Pasted image 20250812143406.png",
+    "Kemi/Solitions/Very dilute solutions.md",
+    "Kemi/Solitions/Factors that affect solubility.md",
+    "Kemi/Solitions/Molarity, molality and mole fraction.md",
     "images/Pasted image 20250812140944.png",
     "images/Pasted image 20250812140747.png",
     "images/Pasted image 20250812140717.png",
     "images/Pasted image 20250812140638.png",
     "images/Pasted image 20250812140623.png",
-    "Kemi/Solitions/Very dilute solutions.md",
-    "Kemi/Solitions/Molarity, molality and mole fraction.md",
     "images/Pasted image 20250812135906.png",
     "images/Pasted image 20250812135837.png",
     "images/Pasted image 20250812135007.png",
     "Kemi/Solitions",
     "Kemi/Solitions/Concentration by percent.md",
     "images/Pasted image 20250812134339.png",
-    "images/Pasted image 20250812134256.png",
-    "images/Pasted image 20250812134230.png",
     "Kemi/Intermolecular forces, liquids and solids/Mixtures and solubility.md",
     "Kemi/Intermolecular forces, liquids and solids/Crystal lattices.md",
     "Kemi/Intermolecular forces, liquids and solids/Enthalpy and phase changes.md",
@@ -262,7 +263,6 @@
     "Kemi/Molecular structures and bond energy",
     "Kemi/Quantum mechanics/Electron configurations and valence electrons.md",
     "Kemi/Quantum mechanics/Periodic properties of the elements.md",
-    "Kemi/Quantum mechanics/The electromagnetic spectrum.md",
     "Kemi/Quantum mechanics",
     "02105-Algorithms-and-Data-Structures/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf"
   ]
