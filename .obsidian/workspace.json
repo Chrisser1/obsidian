@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Molecular structures and bond energy/Covalent bonding and the octet rule.md",
+                "file": "Kemi/Intermolecular forces, liquids and solids/Phase diagrams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Covalent bonding and the octet rule"
+              "title": "Phase diagrams"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "polar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -224,30 +224,32 @@
   },
   "active": "33141918959d7b70",
   "lastOpenFiles": [
-    "Kemi/Molecular structures and bond energy/Energi and ionic bonds.md",
-    "Kemi/Intermolecular forces, liquids and solids/Intermolecular forces.md",
+    "images/Pasted image 20250812121517.png",
+    "images/Pasted image 20250812121436.png",
+    "images/Pasted image 20250812121350.png",
     "Kemi/Intermolecular forces, liquids and solids/Enthalpy and phase changes.md",
+    "Kemi/Intermolecular forces, liquids and solids/Phase diagrams.md",
+    "images/Pasted image 20250812121257.png",
+    "Kemi/Intermolecular forces, liquids and solids/Intermolecular forces.md",
+    "Kemi/Intermolecular forces, liquids and solids/Mixtures and solubility.md",
+    "Kemi/Molecular structures and bond energy/Polar bonds and molecules.md",
+    "Kemi/Molecular structures and bond energy/Resonance.md",
+    "Kemi/Molecular structures and bond energy/Lewis structures.md",
+    "Kemi/Molecular structures and bond energy/Energy and covalent bonds.md",
+    "Kemi/Molecular structures and bond energy/Energi and ionic bonds.md",
+    "Kemi/Molecular structures and bond energy/Covalent bonding and the octet rule.md",
     "images/Pasted image 20250812120203.png",
     "images/Pasted image 20250812120140.png",
     "images/Pasted image 20250812120015.png",
     "images/Pasted image 20250812115709.png",
     "images/Pasted image 20250812115632.png",
-    "Kemi/Intermolecular forces, liquids and solids/Mixtures and solubility.md",
     "images/Pasted image 20250812115257.png",
     "images/Pasted image 20250812114741.png",
-    "images/Pasted image 20250812113610.png",
-    "images/Pasted image 20250812111918.png",
-    "images/Pasted image 20250812111904.png",
     "conflict-files-obsidian-git.md",
     "Kemi/Intermolecular forces, liquids and solids",
     "Kemi/Molecular structures and bond energy/Valance overlap model.md",
     "Kemi/Molecular structures and bond energy/The shapes of molecules.md",
-    "Kemi/Molecular structures and bond energy/Polar bonds and molecules.md",
-    "Kemi/Molecular structures and bond energy/Energy and covalent bonds.md",
     "Kemi/Molecular structures and bond energy/Simplified structures.md",
-    "Kemi/Molecular structures and bond energy/Resonance.md",
-    "Kemi/Molecular structures and bond energy/Lewis structures.md",
-    "Kemi/Molecular structures and bond energy/Covalent bonding and the octet rule.md",
     "Kemi/Quantum mechanics/Electron configuration and the periodic table.md",
     "Kemi/Molecular structures and bond energy.md",
     "Kemi/Molecular structures and bond energy",
@@ -261,7 +263,6 @@
     "Mat1B/Funktioner-1/Partial differential.md",
     "Mat1B/Funktioner-1/Orthogonality (ortogonele).md",
     "Mat1B/Funktioner-1/Distance between vectors.md",
-    "README.md",
     "02105-Algorithms-and-Data-Structures/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf"
   ]
 }

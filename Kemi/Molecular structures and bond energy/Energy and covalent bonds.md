@@ -11,3 +11,4 @@
 ![[Pasted image 20250811131059.png]]
 ![[Pasted image 20250811131137.png]]
 
+[[Energy and covalent bonds]]

@@ -5,3 +5,7 @@
 ![[Pasted image 20250812120015.png]]
 * `enthalpy of vaporization,` $\Delta H_{vap}$ heat required to convert a liquid to a gas at constant pressure
 ![[Pasted image 20250812120203.png]]
+
+### Example
+![[Pasted image 20250812121257.png]]
+
