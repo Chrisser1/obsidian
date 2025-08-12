@@ -15,3 +15,7 @@
 
 ## Molecules substances (covalent/intemolecular)
 ![[Pasted image 20250812124601.png]]
+* `Covalent networks` lattice of covalent bonds that form giant molecules'
+![[Pasted image 20250812124753.png]]
+* `Polymers` contain long chains of covalently bonded atoms
+* 
