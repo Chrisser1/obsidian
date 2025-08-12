@@ -26,3 +26,5 @@
 ![[Pasted image 20250812100301.png]]
 
 
+### Example
+![[Pasted image 20250812100605.png]]
