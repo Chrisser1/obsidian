@@ -14,3 +14,5 @@
 ![[Pasted image 20250813133311.png]]
 
 ## A simplification for equilibrium problems
+![[Pasted image 20250813133418.png]]
+![[Pasted image 20250813133438.png]]
