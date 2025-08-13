@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Kinetics/Integrated rate laws.md",
+                "file": "Kemi/Kinetics/Half-life and radioactive decay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Integrated rate laws"
+              "title": "Half-life and radioactive decay"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "solute",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -224,21 +224,22 @@
   },
   "active": "33141918959d7b70",
   "lastOpenFiles": [
+    "images/Pasted image 20250813103232.png",
+    "images/Pasted image 20250813103111.png",
+    "Kemi/Solitions/Colligative properties.md",
+    "Kemi/Kinetics/Half-life and radioactive decay.md",
+    "Kemi/Kinetics/Integrated rate laws.md",
+    "images/Pasted image 20250813102526.png",
+    "images/Pasted image 20250813102400.png",
+    "images/Pasted image 20250813102308.png",
+    "images/Pasted image 20250813102255.png",
     "images/Pasted image 20250813102134.png",
     "images/Pasted image 20250813102129.png",
     "images/Pasted image 20250813102110.png",
     "images/Pasted image 20250813102037.png",
     "images/Pasted image 20250813101959.png",
-    "images/Pasted image 20250813101946.png",
-    "images/Pasted image 20250813101839.png",
     "Kemi/Kinetics/The rate laws.md",
-    "Kemi/Kinetics/Integrated rate laws.md",
-    "images/Pasted image 20250813101657.png",
-    "images/Pasted image 20250813101634.png",
-    "images/Pasted image 20250813101558.png",
-    "images/Pasted image 20250813101437.png",
     "Kemi/Kinetics/Reaction rates.md",
-    "Kemi/Solitions/Colligative properties.md",
     "Kemi/Kinetics",
     "Kemi/Solitions/Determining ion concentration.md",
     "Kemi/Solitions/Factors that affect solubility.md",
@@ -262,7 +263,6 @@
     "conflict-files-obsidian-git.md",
     "Kemi/Intermolecular forces, liquids and solids",
     "Kemi/Molecular structures and bond energy/Valance overlap model.md",
-    "Kemi/Molecular structures and bond energy/The shapes of molecules.md",
     "Kemi/Molecular structures and bond energy",
     "Kemi/Quantum mechanics",
     "02105-Algorithms-and-Data-Structures/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf"
