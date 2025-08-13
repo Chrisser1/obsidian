@@ -9,3 +9,7 @@
 ## Solubility product
 ![[Pasted image 20250813131329.png]]
 ![[Pasted image 20250813131338.png]]
+
+### Example
+![[Pasted image 20250813131518.png]]
+![[Pasted image 20250813131604.png]]
