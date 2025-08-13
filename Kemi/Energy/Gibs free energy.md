@@ -6,6 +6,7 @@
 ![[Pasted image 20250807155008.png]]
 
 ## How does $\Delta H$ and $\Delta S$ affect $\Delta G$
+### Spontaneous and nonspontaneous
 ![[Pasted image 20250807155110.png]]
 ![[Pasted image 20250807155155.png]]
 ![[Pasted image 20250807155201.png]]
