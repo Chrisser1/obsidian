@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Kinetics/Catalysts.md",
+                "file": "Kemi/Kinetics/Half-life and radioactive decay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Catalysts"
+              "title": "Half-life and radioactive decay"
             }
           }
         ],
@@ -224,6 +224,8 @@
   },
   "active": "33141918959d7b70",
   "lastOpenFiles": [
+    "Kemi/Kinetics/Reaction rates.md",
+    "Kemi/Kinetics/Catalysts.md",
     "images/Pasted image 20250813113131.png",
     "images/Pasted image 20250813113023.png",
     "images/Pasted image 20250813113002.png",
@@ -232,17 +234,14 @@
     "images/Pasted image 20250813112721.png",
     "images/Pasted image 20250813112617.png",
     "Kemi/Kinetics/Energies and reaction rates.md",
-    "Kemi/Kinetics/Catalysts.md",
     "images/Pasted image 20250813112404.png",
     "images/Pasted image 20250813112347.png",
     "images/Pasted image 20250813112346.png",
-    "images/Pasted image 20250813112345.png",
     "Kemi/Kinetics/Rates and reaction mechanisms.md",
     "Kemi/Kinetics/Half-life and radioactive decay.md",
     "Kemi/Solitions/Colligative properties.md",
     "Kemi/Kinetics/Integrated rate laws.md",
     "Kemi/Kinetics/The rate laws.md",
-    "Kemi/Kinetics/Reaction rates.md",
     "Kemi/Kinetics",
     "Kemi/Solitions/Determining ion concentration.md",
     "Kemi/Solitions/Factors that affect solubility.md",
