@@ -17,3 +17,7 @@
 
 ## Analysis of multistep reactions
 ![[Pasted image 20250813111142.png]]
+![[Pasted image 20250813111319.png]]
+
+### Example
+![[Pasted image 20250813111341.png]]

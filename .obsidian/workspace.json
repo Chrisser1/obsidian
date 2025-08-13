@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Kinetics/Rates and reaction mechanisms.md",
+                "file": "Kemi/Kinetics/Energies and reaction rates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rates and reaction mechanisms"
+              "title": "Energies and reaction rates"
             }
           }
         ],
@@ -224,19 +224,20 @@
   },
   "active": "33141918959d7b70",
   "lastOpenFiles": [
-    "images/Pasted image 20250813111142.png",
-    "images/Pasted image 20250813110828.png",
-    "images/Pasted image 20250813110715.png",
-    "images/Pasted image 20250813110451.png",
-    "images/Pasted image 20250813110413.png",
-    "images/Pasted image 20250813110336.png",
-    "images/Pasted image 20250813110236.png",
-    "Kemi/Kinetics/Half-life and radioactive decay.md",
+    "images/Pasted image 20250813112212.png",
+    "images/Pasted image 20250813112136.png",
+    "images/Pasted image 20250813112116.png",
+    "images/Pasted image 20250813112030.png",
+    "images/Pasted image 20250813112002.png",
+    "images/Pasted image 20250813111930.png",
+    "images/Pasted image 20250813111824.png",
+    "images/Pasted image 20250813111753.png",
+    "images/Pasted image 20250813111713.png",
     "Kemi/Kinetics/Rates and reaction mechanisms.md",
-    "images/Pasted image 20250813103556.png",
-    "images/Pasted image 20250813103529.png",
-    "images/Pasted image 20250813103451.png",
-    "images/Pasted image 20250813103357.png",
+    "Kemi/Kinetics/Energies and reaction rates.md",
+    "images/Pasted image 20250813111341.png",
+    "images/Pasted image 20250813111319.png",
+    "Kemi/Kinetics/Half-life and radioactive decay.md",
     "Kemi/Solitions/Colligative properties.md",
     "Kemi/Kinetics/Integrated rate laws.md",
     "Kemi/Kinetics/The rate laws.md",
@@ -261,7 +262,6 @@
     "Kemi/Molecular structures and bond energy/Lewis structures.md",
     "Kemi/Molecular structures and bond energy/Energy and covalent bonds.md",
     "Kemi/Molecular structures and bond energy/Covalent bonding and the octet rule.md",
-    "conflict-files-obsidian-git.md",
     "Kemi/Intermolecular forces, liquids and solids",
     "Kemi/Molecular structures and bond energy",
     "Kemi/Quantum mechanics",
