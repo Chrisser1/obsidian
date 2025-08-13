@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Gasses/The gas law.md",
+                "file": "Kemi/Energy/State functions and Hess's law.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The gas law"
+              "title": "State functions and Hess's law"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "boy",
+                "query": "state function",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,6 +182,10 @@
   },
   "active": "f04814b20790dcbd",
   "lastOpenFiles": [
+    "Kemi/Intermolecular forces, liquids and solids/Enthalpy and phase changes.md",
+    "Kemi/Energy/Heat, temperature and heat capacity.md",
+    "Kemi/Gasses/The kinetic theory of gasses.md",
+    "Kemi/Gasses/The gas law.md",
     "Kemi/Gasses/Describing gasses.md",
     "Kemi/Molecular structures and bond energy/Lewis structures.md",
     "images/Pasted image 20250813140444.png",
@@ -213,14 +217,10 @@
     "Kemi/Intermolecular forces, liquids and solids/Phase diagrams.md",
     "Kemi/Intermolecular forces, liquids and solids/Mixtures and solubility.md",
     "Kemi/Intermolecular forces, liquids and solids/Intermolecular forces.md",
-    "Kemi/Intermolecular forces, liquids and solids/Enthalpy and phase changes.md",
     "Kemi/Intermolecular forces, liquids and solids/Crystal lattices.md",
     "Kemi/Intermolecular forces, liquids and solids/Classifying liquids and solids.md",
     "Kemi/Intermolecular forces, liquids and solids",
     "Kemi/Equilibrium/Using equilibrium expressions to predict change.md",
-    "Kemi/Equilibrium/Le Chartelier's principle.md",
-    "Kemi/Equilibrium/Gas equilibria.md",
-    "Kemi/Equilibrium/Equilibria involving Solvents, Pure Liquids, and Solids.md",
     "Kemi/Equilibrium",
     "Kemi/Molecular structures and bond energy",
     "Kemi/Quantum mechanics",
