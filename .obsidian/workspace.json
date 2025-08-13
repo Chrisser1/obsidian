@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Kinetics/The rate laws.md",
+                "file": "Kemi/Kinetics/Integrated rate laws.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The rate laws"
+              "title": "Integrated rate laws"
             }
           }
         ],
@@ -224,19 +224,20 @@
   },
   "active": "33141918959d7b70",
   "lastOpenFiles": [
-    "images/Pasted image 20250813101216.png",
-    "images/Pasted image 20250813101117.png",
-    "images/Pasted image 20250813100853.png",
-    "images/Pasted image 20250813100823.png",
-    "images/Pasted image 20250813100728.png",
-    "images/Pasted image 20250813100625.png",
-    "images/Pasted image 20250813100549.png",
-    "images/Pasted image 20250813100512.png",
-    "images/Pasted image 20250813100417.png",
-    "Kemi/Kinetics/Reaction rates.md",
+    "images/Pasted image 20250813102134.png",
+    "images/Pasted image 20250813102129.png",
+    "images/Pasted image 20250813102110.png",
+    "images/Pasted image 20250813102037.png",
+    "images/Pasted image 20250813101959.png",
+    "images/Pasted image 20250813101946.png",
+    "images/Pasted image 20250813101839.png",
     "Kemi/Kinetics/The rate laws.md",
-    "images/Pasted image 20250813100157.png",
-    "images/Pasted image 20250813100124.png",
+    "Kemi/Kinetics/Integrated rate laws.md",
+    "images/Pasted image 20250813101657.png",
+    "images/Pasted image 20250813101634.png",
+    "images/Pasted image 20250813101558.png",
+    "images/Pasted image 20250813101437.png",
+    "Kemi/Kinetics/Reaction rates.md",
     "Kemi/Solitions/Colligative properties.md",
     "Kemi/Kinetics",
     "Kemi/Solitions/Determining ion concentration.md",
@@ -262,7 +263,6 @@
     "Kemi/Intermolecular forces, liquids and solids",
     "Kemi/Molecular structures and bond energy/Valance overlap model.md",
     "Kemi/Molecular structures and bond energy/The shapes of molecules.md",
-    "Kemi/Molecular structures and bond energy/Simplified structures.md",
     "Kemi/Molecular structures and bond energy",
     "Kemi/Quantum mechanics",
     "02105-Algorithms-and-Data-Structures/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf"

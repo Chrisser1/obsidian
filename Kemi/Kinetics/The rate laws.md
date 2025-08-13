@@ -20,3 +20,11 @@
 ### Example
 ![[Pasted image 20250813101117.png]]
 ![[Pasted image 20250813101216.png]]
+
+## Rearrange to use log
+![[Pasted image 20250813101437.png]]
+
+### Example
+![[Pasted image 20250813101558.png]]
+![[Pasted image 20250813101634.png]]
+![[Pasted image 20250813101657.png]]
