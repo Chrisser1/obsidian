@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Molecular structures and bond energy/Lewis structures.md",
+                "file": "Kemi/Gasses/The gas law.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lewis structures"
+              "title": "The gas law"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lewis",
+                "query": "boy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,8 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e8424c02fdc53e0",
+  "active": "f04814b20790dcbd",
   "lastOpenFiles": [
+    "Kemi/Gasses/Describing gasses.md",
+    "Kemi/Molecular structures and bond energy/Lewis structures.md",
     "images/Pasted image 20250813140444.png",
     "images/Pasted image 20250813140309.png",
     "images/Pasted image 20250813135947.png",
@@ -191,7 +194,6 @@
     "images/Pasted image 20250813135656.png",
     "images/Pasted image 20250813135627.png",
     "images/Pasted image 20250813135507.png",
-    "images/Pasted image 20250813135358.png",
     "Kemi/Solitions/Very dilute solutions.md",
     "Kemi/Solitions/Molarity, molality and mole fraction.md",
     "Kemi/Solitions/Factors that affect solubility.md",
@@ -219,7 +221,6 @@
     "Kemi/Equilibrium/Le Chartelier's principle.md",
     "Kemi/Equilibrium/Gas equilibria.md",
     "Kemi/Equilibrium/Equilibria involving Solvents, Pure Liquids, and Solids.md",
-    "Kemi/Equilibrium/Dynamic equilibrium.md",
     "Kemi/Equilibrium",
     "Kemi/Molecular structures and bond energy",
     "Kemi/Quantum mechanics",
