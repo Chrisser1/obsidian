@@ -10,8 +10,6 @@
 ## Equilibrium and temperature
 ![[Pasted image 20250813135736.png]]
 ![[Pasted image 20250813135812.png]]
-
-
 ## Equilibrium and pressure
 ![[Pasted image 20250813135924.png]]
 * Higher pressure shifts it towards the one with fever moles of gas
@@ -19,3 +17,6 @@
 
 ## Equilibrium and catalysts
 ![[Pasted image 20250813140309.png]]
+
+### Example
+![[Pasted image 20250813140444.png]]
