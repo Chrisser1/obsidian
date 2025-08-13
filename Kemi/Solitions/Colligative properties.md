@@ -22,4 +22,16 @@ Properties of a solution that depend on the number of particles in a solution, n
 ## Example
 ![[Pasted image 20250813094111.png]]
 
-## Diviations of 
+## Deviations of Raoult's law
+![[Pasted image 20250813094255.png]]
+![[Pasted image 20250813094402.png]]
+
+## Distillation
+* `Distillation` a technique for purifying liquids based on differences in boiling point.
+
+### Simple
+![[Pasted image 20250813094637.png]]
+
+## Fractional
+![[Pasted image 20250813094712.png]]
+
