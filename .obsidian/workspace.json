@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Kinetics/Half-life and radioactive decay.md",
+                "file": "Kemi/Equilibrium/Dynamic equilibrium.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Half-life and radioactive decay"
+              "title": "Dynamic equilibrium"
             }
           }
         ],
@@ -224,6 +224,11 @@
   },
   "active": "33141918959d7b70",
   "lastOpenFiles": [
+    "images/Pasted image 20250813125111.png",
+    "images/Pasted image 20250813124923.png",
+    "Kemi/Kinetics/Half-life and radioactive decay.md",
+    "Kemi/Equilibrium/Dynamic equilibrium.md",
+    "Kemi/Equilibrium",
     "Kemi/Kinetics/Reaction rates.md",
     "Kemi/Kinetics/Catalysts.md",
     "images/Pasted image 20250813113131.png",
@@ -236,9 +241,7 @@
     "Kemi/Kinetics/Energies and reaction rates.md",
     "images/Pasted image 20250813112404.png",
     "images/Pasted image 20250813112347.png",
-    "images/Pasted image 20250813112346.png",
     "Kemi/Kinetics/Rates and reaction mechanisms.md",
-    "Kemi/Kinetics/Half-life and radioactive decay.md",
     "Kemi/Solitions/Colligative properties.md",
     "Kemi/Kinetics/Integrated rate laws.md",
     "Kemi/Kinetics/The rate laws.md",
@@ -260,7 +263,6 @@
     "Kemi/Molecular structures and bond energy/Polar bonds and molecules.md",
     "Kemi/Molecular structures and bond energy/Resonance.md",
     "Kemi/Molecular structures and bond energy/Lewis structures.md",
-    "Kemi/Molecular structures and bond energy/Energy and covalent bonds.md",
     "Kemi/Intermolecular forces, liquids and solids",
     "Kemi/Molecular structures and bond energy",
     "Kemi/Quantum mechanics",
