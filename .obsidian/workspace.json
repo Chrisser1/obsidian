@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Energy/State functions and Hess's law.md",
+                "file": "Kemi/Energy/First law of thermodynamics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "State functions and Hess's law"
+              "title": "First law of thermodynamics"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "state function",
+                "query": "proper",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,8 +181,17 @@
   },
   "active": "f04814b20790dcbd",
   "lastOpenFiles": [
-    "Kemi/Intermolecular forces, liquids and solids/Enthalpy and phase changes.md",
+    "Kemi/Energy/Enthalpy changes in chemical reactions.md",
     "Kemi/Energy/Heat, temperature and heat capacity.md",
+    "Kemi/Energy/Energy, work and heat.md",
+    "Kemi/Energy/First law of thermodynamics.md",
+    "Kemi/Energy/Gibs free energy.md",
+    "Kemi/Energy/State functions and Hess's law.md",
+    "Kemi/Energy/The second law of thermodynamics.md",
+    "Kemi/Energy/Third law of thermodynamics.md",
+    "Kemi/Solitions/Colligative properties.md",
+    "Kemi/Intermolecular forces, liquids and solids/Enthalpy and phase changes.md",
+    "Mat1B/Funktioner-2/Assignments/Storedag/Exercise-2.md",
     "Kemi/Gasses/The kinetic theory of gasses.md",
     "Kemi/Gasses/The gas law.md",
     "Kemi/Gasses/Describing gasses.md",
@@ -203,7 +211,6 @@
     "Kemi/Solitions/Factors that affect solubility.md",
     "Kemi/Solitions/Determining ion concentration.md",
     "Kemi/Solitions/Concentration by percent.md",
-    "Kemi/Solitions/Colligative properties.md",
     "Kemi/Solitions",
     "Kemi/Kinetics/The rate laws.md",
     "Kemi/Kinetics/Reaction rates.md",
@@ -211,16 +218,8 @@
     "Kemi/Kinetics/Integrated rate laws.md",
     "Kemi/Kinetics/Half-life and radioactive decay.md",
     "Kemi/Kinetics/Energies and reaction rates.md",
-    "Kemi/Kinetics/Catalysts.md",
     "Kemi/Kinetics",
-    "Kemi/Intermolecular forces, liquids and solids/Vapor pressure and boiling point.md",
-    "Kemi/Intermolecular forces, liquids and solids/Phase diagrams.md",
-    "Kemi/Intermolecular forces, liquids and solids/Mixtures and solubility.md",
-    "Kemi/Intermolecular forces, liquids and solids/Intermolecular forces.md",
-    "Kemi/Intermolecular forces, liquids and solids/Crystal lattices.md",
-    "Kemi/Intermolecular forces, liquids and solids/Classifying liquids and solids.md",
     "Kemi/Intermolecular forces, liquids and solids",
-    "Kemi/Equilibrium/Using equilibrium expressions to predict change.md",
     "Kemi/Equilibrium",
     "Kemi/Molecular structures and bond energy",
     "Kemi/Quantum mechanics",

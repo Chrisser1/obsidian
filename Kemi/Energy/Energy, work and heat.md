@@ -1,7 +1,7 @@
 * `Thermoodynamics` the study of energy and temperature changes
 * `Thermochemestry` the study of energy changes in chemical reactions
 
-## Energy
+## Energy (potential and kinetic)
 ![[Pasted image 20250807103356.png]]
 
 ### Common units of energy
