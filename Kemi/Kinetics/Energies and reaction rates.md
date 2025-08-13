@@ -13,5 +13,7 @@
 ## The Arrhenius equation
 ![[Pasted image 20250813112116.png]]
 ![[Pasted image 20250813112212.png]]
-### Rearranging
-
+### Rearranging (Natrual log form and two point form)
+![[Pasted image 20250813112317.png]]
+![[Pasted image 20250813112347.png]]
+![[Pasted image 20250813112404.png]]
