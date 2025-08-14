@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Buffers/Calculating pH Changes in Buffer Solutions.md",
+                "file": "Kemi/Buffers/Preparing and using buffer solutions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Calculating pH Changes in Buffer Solutions"
+              "title": "Preparing and using buffer solutions"
             }
           }
         ],
@@ -224,19 +224,21 @@
   },
   "active": "33141918959d7b70",
   "lastOpenFiles": [
-    "images/Pasted image 20250814142131.png",
-    "images/Pasted image 20250814141916.png",
-    "images/Pasted image 20250814141901.png",
-    "images/Pasted image 20250814141649.png",
-    "images/Pasted image 20250814141438.png",
-    "images/Pasted image 20250814141248.png",
-    "Kemi/Buffers/Buffers solutions and pH.md",
+    "images/Pasted image 20250814143202.png",
+    "images/Pasted image 20250814143142.png",
+    "images/Pasted image 20250814143038.png",
+    "images/Pasted image 20250814143020.png",
+    "images/Pasted image 20250814142930.png",
+    "images/Pasted image 20250814142907.png",
     "Kemi/Buffers/Calculating pH Changes in Buffer Solutions.md",
-    "images/Pasted image 20250814141007.png",
-    "images/Pasted image 20250814140611.png",
-    "images/Pasted image 20250814140541.png",
-    "images/Pasted image 20250814140435.png",
-    "images/Pasted image 20250814140255.png",
+    "Kemi/Buffers/Preparing and using buffer solutions.md",
+    "Kemi/Buffers/Untitled",
+    "images/Pasted image 20250814142550.png",
+    "images/Pasted image 20250814142527.png",
+    "images/Pasted image 20250814142452.png",
+    "images/Pasted image 20250814142440.png",
+    "images/Pasted image 20250814142422.png",
+    "Kemi/Buffers/Buffers solutions and pH.md",
     "Kemi/Buffers/Buffers.md",
     "Kemi/Acids and bases/Measuring acid and base concentration.md",
     "Kemi/Buffers",
@@ -264,7 +266,6 @@
     "Kemi/Kinetics/Integrated rate laws.md",
     "Kemi/Kinetics/The rate laws.md",
     "Kemi/Kinetics",
-    "Kemi/Solitions/Determining ion concentration.md",
     "Kemi/Solitions",
     "Kemi/Intermolecular forces, liquids and solids",
     "Kemi/Molecular structures and bond energy",
