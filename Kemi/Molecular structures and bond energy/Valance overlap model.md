@@ -12,6 +12,18 @@
 
 ## Sigma and pi bond
 ![[Pasted image 20250811154627.png]]
+## How to Count Sigma Bonds
+
+The rule for counting sigma bonds from a Lewis structure is straightforward:
+
+- Every **single bond** contains 1 σ bond.
+    
+- Every **double bond** contains 1 σ bond and 1 pi (π) bond.
+    
+- Every **triple bond** contains 1 σ bond and 2 pi (π) bonds.
+    
+
+Essentially, **every bond connection** you see between two atoms contains exactly **one** sigma bond. To find the total, we just need to count all the connections.
 ## Example
 ![[Pasted image 20250811154723.png]]
 

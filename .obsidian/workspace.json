@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hybridization",
+                "query": "sigma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -237,7 +237,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "682c77162effad6b",
+  "active": "1986cd4b11db503c",
   "lastOpenFiles": [
     "Kemi/Molecular structures and bond energy/The shapes of molecules.md",
     "Kemi/Acids and bases/Equilibrium reactions.md",
