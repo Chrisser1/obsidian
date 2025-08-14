@@ -23,4 +23,3 @@
 
 ### Example
 ![[Pasted image 20250811151146.png]]
->>>>>>> origin/main
