@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Buffers/Buffers.md",
+                "file": "Kemi/Buffers/Buffers solutions and pH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Buffers"
+              "title": "Buffers solutions and pH"
             }
           }
         ],
@@ -224,22 +224,23 @@
   },
   "active": "33141918959d7b70",
   "lastOpenFiles": [
-    "images/Pasted image 20250814135053.png",
-    "images/Pasted image 20250814135007.png",
-    "images/Pasted image 20250814134925.png",
-    "Kemi/Acids and bases/Measuring acid and base concentration.md",
+    "images/Pasted image 20250814140221.png",
+    "images/Pasted image 20250814140150.png",
+    "images/Pasted image 20250814135957.png",
+    "images/Pasted image 20250814135851.png",
+    "images/Pasted image 20250814135823.png",
+    "images/Pasted image 20250814135734.png",
+    "images/Pasted image 20250814135534.png",
     "Kemi/Buffers/Buffers.md",
+    "Kemi/Buffers/Buffers solutions and pH.md",
+    "images/Pasted image 20250814135317.png",
+    "images/Pasted image 20250814135256.png",
+    "images/Pasted image 20250814135225.png",
+    "images/Pasted image 20250814135053.png",
+    "Kemi/Acids and bases/Measuring acid and base concentration.md",
     "Kemi/Buffers",
     "Kemi/Untitled.canvas",
-    "images/Pasted image 20250814134749.png",
-    "images/Pasted image 20250814134649.png",
-    "images/Pasted image 20250814134618.png",
-    "images/Pasted image 20250814134526.png",
-    "images/Pasted image 20250814134253.png",
     "Kemi/Acids and bases/Salt solutions and pH.md",
-    "images/Pasted image 20250814134054.png",
-    "images/Pasted image 20250814133808.png",
-    "images/Pasted image 20250814133633.png",
     "Kemi/Acids and bases/Acid based conjugate pairs.md",
     "Kemi/Acids and bases/Calculating pH and OH.md",
     "Kemi/Acids and bases/Autoionization and the pH scale.md",
@@ -264,7 +265,6 @@
     "Kemi/Kinetics",
     "Kemi/Solitions/Determining ion concentration.md",
     "Kemi/Solitions/Factors that affect solubility.md",
-    "Kemi/Solitions/Molarity, molality and mole fraction.md",
     "Kemi/Solitions",
     "Kemi/Intermolecular forces, liquids and solids",
     "Kemi/Molecular structures and bond energy",
