@@ -16,3 +16,5 @@
 
 # Bases
 ![[Pasted image 20250814132130.png]]
+![[Pasted image 20250814132216.png]]
+![[Pasted image 20250814132252.png]]
