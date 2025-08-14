@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Acids and bases/Measuring acid and base concentration.md",
+                "file": "Kemi/Buffers/Buffers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Measuring acid and base concentration"
+              "title": "Buffers"
             }
           }
         ],
@@ -224,19 +224,23 @@
   },
   "active": "33141918959d7b70",
   "lastOpenFiles": [
-    "Kemi/Acids and bases/Salt solutions and pH.md",
+    "images/Pasted image 20250814135053.png",
+    "images/Pasted image 20250814135007.png",
+    "images/Pasted image 20250814134925.png",
     "Kemi/Acids and bases/Measuring acid and base concentration.md",
+    "Kemi/Buffers/Buffers.md",
+    "Kemi/Buffers",
+    "Kemi/Untitled.canvas",
+    "images/Pasted image 20250814134749.png",
+    "images/Pasted image 20250814134649.png",
+    "images/Pasted image 20250814134618.png",
+    "images/Pasted image 20250814134526.png",
+    "images/Pasted image 20250814134253.png",
+    "Kemi/Acids and bases/Salt solutions and pH.md",
     "images/Pasted image 20250814134054.png",
     "images/Pasted image 20250814133808.png",
     "images/Pasted image 20250814133633.png",
-    "images/Pasted image 20250814133528.png",
-    "images/Pasted image 20250814133411.png",
     "Kemi/Acids and bases/Acid based conjugate pairs.md",
-    "images/Pasted image 20250814133203.png",
-    "images/Pasted image 20250814133158.png",
-    "images/Pasted image 20250814133052.png",
-    "images/Pasted image 20250814132952.png",
-    "images/Pasted image 20250814132852.png",
     "Kemi/Acids and bases/Calculating pH and OH.md",
     "Kemi/Acids and bases/Autoionization and the pH scale.md",
     "Kemi/Acids and bases/Equilibrium reactions.md",
@@ -261,9 +265,7 @@
     "Kemi/Solitions/Determining ion concentration.md",
     "Kemi/Solitions/Factors that affect solubility.md",
     "Kemi/Solitions/Molarity, molality and mole fraction.md",
-    "Kemi/Solitions/Very dilute solutions.md",
     "Kemi/Solitions",
-    "Kemi/Solitions/Concentration by percent.md",
     "Kemi/Intermolecular forces, liquids and solids",
     "Kemi/Molecular structures and bond energy",
     "Kemi/Quantum mechanics",
