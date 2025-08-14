@@ -1,4 +1,4 @@
-## Polar covalent bonds
+## Polar covalent bonds (electron negativity)
 ![[Pasted image 20250811153004.png]]
 ![[Pasted image 20250811153128.png]]
 
