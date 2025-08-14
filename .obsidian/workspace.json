@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Energy/Energy, work and heat.md",
+                "file": "Kemi/Quantum mechanics/Electron configuration and the periodic table.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Energy, work and heat"
+              "title": "Electron configuration and the periodic table"
+            }
+          },
+          {
+            "id": "9c9d94f0b0b721d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kemi/Molecular structures and bond energy/Energi and ionic bonds.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Energi and ionic bonds"
+            }
+          },
+          {
+            "id": "bec2b881f711ad1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kemi/Intermolecular forces, liquids and solids/Intermolecular forces.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intermolecular forces"
+            }
+          },
+          {
+            "id": "33141918959d7b70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kemi/Acids and bases/Introduction to acids and bases.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction to acids and bases"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -53,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "exo",
+                "query": "solute",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +117,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,30 +222,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f04814b20790dcbd",
+  "active": "33141918959d7b70",
   "lastOpenFiles": [
-    "Kemi/Quantum mechanics/The wave nature of matter.md",
-    "Kemi/Quantum mechanics/The quantum model.md",
-    "Kemi/Quantum mechanics/The electromagnetic spectrum.md",
-    "Kemi/Quantum mechanics/Periodic properties of the elements.md",
-    "Kemi/Quantum mechanics/Electron configurations and valence electrons.md",
-    "Kemi/Quantum mechanics/Electron configuration and the periodic table.md",
-    "Kemi/Molecular structures and bond energy/Resonance.md",
-    "Kemi/Energy/Gibs free energy.md",
-    "Kemi/Energy/First law of thermodynamics.md",
-    "Kemi/Energy/Enthalpy changes in chemical reactions.md",
-    "Kemi/Energy/Energy, work and heat.md",
-    "Kemi/Energy/Heat, temperature and heat capacity.md",
-    "Kemi/Energy/State functions and Hess's law.md",
-    "Kemi/Energy/The second law of thermodynamics.md",
-    "Kemi/Energy/Third law of thermodynamics.md",
-    "Kemi/Solitions/Colligative properties.md",
-    "Kemi/Intermolecular forces, liquids and solids/Enthalpy and phase changes.md",
-    "Mat1B/Funktioner-2/Assignments/Storedag/Exercise-2.md",
-    "Kemi/Gasses/The kinetic theory of gasses.md",
-    "Kemi/Gasses/The gas law.md",
-    "Kemi/Gasses/Describing gasses.md",
-    "Kemi/Molecular structures and bond energy/Lewis structures.md",
+    "images/Pasted image 20250814112106.png",
+    "images/Pasted image 20250814112054.png",
+    "images/Pasted image 20250814111859.png",
+    "images/Pasted image 20250814111837.png",
+    "Kemi/Equilibrium/Le Chartelier's principle.md",
+    "Kemi/Acids and bases/Introduction to acids and bases.md",
+    "Kemi/Acids and bases",
     "images/Pasted image 20250813140444.png",
     "images/Pasted image 20250813140309.png",
     "images/Pasted image 20250813135947.png",
@@ -211,17 +238,33 @@
     "images/Pasted image 20250813135812.png",
     "images/Pasted image 20250813135736.png",
     "images/Pasted image 20250813135657.png",
-    "images/Pasted image 20250813135656.png",
-    "images/Pasted image 20250813135627.png",
-    "images/Pasted image 20250813135507.png",
-    "Kemi/Solitions/Very dilute solutions.md",
-    "Kemi/Solitions/Molarity, molality and mole fraction.md",
-    "Kemi/Solitions/Factors that affect solubility.md",
-    "Kemi/Solitions/Determining ion concentration.md",
-    "Kemi/Solitions",
-    "Kemi/Kinetics",
-    "Kemi/Intermolecular forces, liquids and solids",
+    "Kemi/Equilibrium/Using equilibrium expressions to predict change.md",
+    "Kemi/Equilibrium/Gas equilibria.md",
+    "Kemi/Equilibrium/Equilibria involving Solvents, Pure Liquids, and Solids.md",
+    "Kemi/Equilibrium/Dynamic equilibrium.md",
+    "Kemi/Kinetics/Half-life and radioactive decay.md",
     "Kemi/Equilibrium",
+    "Kemi/Kinetics/Reaction rates.md",
+    "Kemi/Kinetics/Catalysts.md",
+    "Kemi/Kinetics/Energies and reaction rates.md",
+    "Kemi/Kinetics/Rates and reaction mechanisms.md",
+    "Kemi/Solitions/Colligative properties.md",
+    "Kemi/Kinetics/Integrated rate laws.md",
+    "Kemi/Kinetics/The rate laws.md",
+    "Kemi/Kinetics",
+    "Kemi/Solitions/Determining ion concentration.md",
+    "Kemi/Solitions/Factors that affect solubility.md",
+    "Kemi/Solitions/Molarity, molality and mole fraction.md",
+    "Kemi/Solitions/Very dilute solutions.md",
+    "Kemi/Solitions",
+    "Kemi/Solitions/Concentration by percent.md",
+    "Kemi/Intermolecular forces, liquids and solids/Mixtures and solubility.md",
+    "Kemi/Intermolecular forces, liquids and solids/Crystal lattices.md",
+    "Kemi/Intermolecular forces, liquids and solids/Enthalpy and phase changes.md",
+    "Kemi/Intermolecular forces, liquids and solids/Classifying liquids and solids.md",
+    "Kemi/Molecular structures and bond energy/Energi and ionic bonds.md",
+    "Kemi/Intermolecular forces, liquids and solids/Vapor pressure and boiling point.md",
+    "Kemi/Intermolecular forces, liquids and solids",
     "Kemi/Molecular structures and bond energy",
     "Kemi/Quantum mechanics",
     "02105-Algorithms-and-Data-Structures/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf"
