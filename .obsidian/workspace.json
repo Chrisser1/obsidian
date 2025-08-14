@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Molecular structures and bond energy/Lewis structures.md",
+                "file": "Kemi/Molecular structures and bond energy/Valance overlap model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lewis structures"
+              "title": "Valance overlap model"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hybridization",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +131,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -236,8 +237,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e8424c02fdc53e0",
+  "active": "682c77162effad6b",
   "lastOpenFiles": [
+    "Kemi/Molecular structures and bond energy/The shapes of molecules.md",
+    "Kemi/Acids and bases/Equilibrium reactions.md",
+    "Kemi/Acids and bases/Acid based conjugate pairs.md",
+    "Kemi/Energy/Enthalpy changes in chemical reactions.md",
+    "Kemi/Molecular structures and bond energy/Lewis structures.md",
     "Kemi/Molecular structures and bond energy/Energy and covalent bonds.md",
     "Kemi/Molecular structures and bond energy/Energi and ionic bonds.md",
     "Kemi/Molecular structures and bond energy/Covalent bonding and the octet rule.md",
@@ -261,10 +267,8 @@
     "Kemi/Buffers",
     "Kemi/Untitled.canvas",
     "Kemi/Acids and bases/Salt solutions and pH.md",
-    "Kemi/Acids and bases/Acid based conjugate pairs.md",
     "Kemi/Acids and bases/Calculating pH and OH.md",
     "Kemi/Acids and bases/Autoionization and the pH scale.md",
-    "Kemi/Acids and bases/Equilibrium reactions.md",
     "Kemi/Acids and bases/Introduction to acids and bases.md",
     "Kemi/Acids and bases/Reactions.md",
     "Kemi/Equilibrium/Le Chartelier's principle.md",
@@ -276,9 +280,6 @@
     "Kemi/Kinetics/Half-life and radioactive decay.md",
     "Kemi/Equilibrium",
     "Kemi/Kinetics/Reaction rates.md",
-    "Kemi/Kinetics/Catalysts.md",
-    "Kemi/Kinetics/Energies and reaction rates.md",
-    "Kemi/Kinetics/Rates and reaction mechanisms.md",
     "Kemi/Kinetics",
     "Kemi/Solitions",
     "Kemi/Intermolecular forces, liquids and solids",
