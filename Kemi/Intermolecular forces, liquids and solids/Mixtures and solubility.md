@@ -12,6 +12,9 @@
 
 **Core idea:** “Like dissolves like.” Match intermolecular forces (polarity, H-bonding). Ionic compounds follow water-solubility rules.
 
+The guiding principle for solubility is the concept of "like dissolves like." This means:
+- **Polar** and **ionic** solutes dissolve in **polar** solvents.
+- **Nonpolar** solutes dissolve in **nonpolar** solvents.
 ## 1) Classify the players
 - **Ionic?** Use water/polar-protic solvents; apply standard solubility rules (nitrates, Group-1, NH4+ usually soluble).
 - **Covalent:** tag each as **nonpolar**, **polar aprotic** (polar but no O–H/N–H donors), or **polar protic** (has O–H/N–H; H-bond donor).
@@ -36,29 +39,6 @@
 | Hexane | nonpolar (alkane) | ~1.9 | ~0.0–0.1 | No |
 | Octane | nonpolar (alkane) | ~2.0 | ~0.0–0.1 | No |
 
-## 4) Mini-examples (pattern you can reuse)
-
-**A. “Which dissolves in octane (C₈H₁₈)?”**  
-Pick a **nonpolar** solute (e.g., CCl₄). Polar/ionic choices (water, KNO₃, small alcohols) won’t.
-
-**B. “Which solvent is miscible with ethyl acetate?”**  
-EtOAc is **moderately polar aprotic**; it’s miscible with many organics. Safe single-pick logic: **acetone** (closest polarity). Miscibility tables also show mixing with **benzene** and **hexane** (and typically with higher alkanes, e.g., octane).
-
-## 5) Fast checklist for MCQs
-- [ ] Ionic vs covalent identified  
-- [ ] For covalent: label as nonpolar / polar-aprotic / polar-protic  
-- [ ] Compare ε or P′; pick closest  
-- [ ] Consider H-bonding (donor/acceptor match)  
-- [ ] If two-liquid uncertainty remains → consult a miscibility table
-
----
-
-### Handy lookups (keep nearby)
-- **Miscibility tables**: general solvent–solvent grids  
-- **Dielectric constants (ε)**: compiled solvent lists  
-- **Polarity index (P′)**: Snyder tables  
-- **Protic vs aprotic definitions**: short organic-chem primers  
-- **Solubility rules in water**: standard general-chem summary
 
 ## Ditergents and micelles
 * `micelle` a spherical assembly of molecules or polyatomic ions containing polar heads on nonpolar tails.
