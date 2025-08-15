@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Electrochemistry/Cell potentials, spontaneity, free energy and equilibrium.md",
+                "file": "Kemi/Electrochemistry/Electrochemistry Applications.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cell potentials, spontaneity, free energy and equilibrium"
+              "title": "Electrochemistry Applications"
             }
           }
         ],
@@ -238,19 +238,20 @@
   },
   "active": "682c77162effad6b",
   "lastOpenFiles": [
-    "images/Pasted image 20250815115100.png",
-    "images/Pasted image 20250815115035.png",
-    "images/Pasted image 20250815114930.png",
-    "images/Pasted image 20250815114808.png",
-    "images/Pasted image 20250815114742.png",
-    "images/Pasted image 20250815114712.png",
-    "images/Pasted image 20250815114655.png",
-    "images/Pasted image 20250815114602.png",
-    "images/Pasted image 20250815114543.png",
-    "images/Pasted image 20250815114415.png",
-    "images/Pasted image 20250815114401.png",
-    "Kemi/Electrochemistry/Voltaic cells.md",
+    "images/Pasted image 20250815115802.png",
+    "images/Pasted image 20250815115748.png",
+    "images/Pasted image 20250815115717.png",
+    "images/Pasted image 20250815115706.png",
+    "images/Pasted image 20250815115645.png",
+    "images/Pasted image 20250815115608.png",
+    "images/Pasted image 20250815115545.png",
+    "images/Pasted image 20250815115457.png",
+    "images/Pasted image 20250815115434.png",
+    "images/Pasted image 20250815115359.png",
+    "images/Pasted image 20250815115329.png",
     "Kemi/Electrochemistry/Cell potentials, spontaneity, free energy and equilibrium.md",
+    "Kemi/Electrochemistry/Electrochemistry Applications.md",
+    "Kemi/Electrochemistry/Voltaic cells.md",
     "Kemi/Electrochemistry/Balancing Redox Reactions.md",
     "Kemi/Electrochemistry/Types of redox reactions.md",
     "Kemi/Electrochemistry/Oxidation numbers.md",
@@ -275,7 +276,6 @@
     "Kemi/Molecular structures and bond energy/Valance overlap model.md",
     "Kemi/Quantum mechanics/Periodic properties of the elements.md",
     "Kemi/Quantum mechanics/Electron configurations and valence electrons.md",
-    "Kemi/Quantum mechanics/Electron configuration and the periodic table.md",
     "Kemi/Buffers/Untitled",
     "Kemi/Buffers",
     "Kemi/Untitled.canvas",
