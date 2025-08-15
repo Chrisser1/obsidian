@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Solitions/Factors that affect solubility.md",
+                "file": "Kemi/Solitions/Boiling point.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Factors that affect solubility"
+              "title": "Boiling point"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "exot",
+                "query": "boil",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -238,12 +238,14 @@
   },
   "active": "682c77162effad6b",
   "lastOpenFiles": [
-    "Kemi/Solitions/Very dilute solutions.md",
-    "Kemi/Solitions/Molarity, molality and mole fraction.md",
-    "Kemi/Solitions/Factors that affect solubility.md",
     "Kemi/Solitions/Determining ion concentration.md",
+    "Kemi/Solitions/Boiling point.md",
     "Kemi/Solitions/Concentration by percent.md",
     "Kemi/Solitions/Colligative properties.md",
+    "Kemi/Intermolecular forces, liquids and solids/Vapor pressure and boiling point.md",
+    "Kemi/Solitions/Factors that affect solubility.md",
+    "Kemi/Solitions/Very dilute solutions.md",
+    "Kemi/Solitions/Molarity, molality and mole fraction.md",
     "Kemi/Energy/Energy, work and heat.md",
     "Kemi/Intermolecular forces, liquids and solids/Enthalpy and phase changes.md",
     "Kemi/Intermolecular forces, liquids and solids/Mixtures and solubility.md",
@@ -251,7 +253,6 @@
     "Kemi/Kinetics/Energies and reaction rates.md",
     "Kemi/Kinetics/Catalysts.md",
     "Kemi/Electrochemistry/Cell potentials, spontaneity, free energy and equilibrium.md",
-    "Kemi/Intermolecular forces, liquids and solids/Vapor pressure and boiling point.md",
     "Kemi/Intermolecular forces, liquids and solids/Phase diagrams.md",
     "Kemi/Intermolecular forces, liquids and solids/Intermolecular forces.md",
     "Kemi/Intermolecular forces, liquids and solids/Crystal lattices.md",
@@ -275,7 +276,6 @@
     "Kemi/Electrochemistry",
     "Kemi/Thermodynamics/Standard conditions.md",
     "Kemi/Thermodynamics",
-    "Kemi/Untitled.md",
     "Kemi/Buffers/Untitled",
     "Kemi/Buffers",
     "Kemi/Untitled.canvas",
