@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Electrochemistry/Oxidation numbers.md",
+                "file": "Kemi/Electrochemistry/Balancing Redox Reactions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Oxidation numbers"
+              "title": "Balancing Redox Reactions"
             }
           }
         ],
@@ -238,20 +238,21 @@
   },
   "active": "682c77162effad6b",
   "lastOpenFiles": [
-    "images/Pasted image 20250815103005.png",
-    "images/Pasted image 20250815102951.png",
-    "images/Pasted image 20250815102813.png",
-    "images/Pasted image 20250815102650.png",
-    "images/Pasted image 20250815102532.png",
-    "images/Pasted image 20250815102441.png",
-    "images/Pasted image 20250815102325.png",
-    "images/Pasted image 20250815102237.png",
-    "Kemi/Thermodynamics/Free energy and equilibrium.md",
+    "Kemi/Electrochemistry/Types of redox reactions.md",
+    "Kemi/Electrochemistry/Balancing Redox Reactions.md",
+    "images/Pasted image 20250815103629.png",
+    "images/Pasted image 20250815103552.png",
+    "images/Pasted image 20250815103541.png",
+    "images/Pasted image 20250815103455.png",
+    "images/Pasted image 20250815103436.png",
+    "images/Pasted image 20250815103416.png",
+    "images/Pasted image 20250815103340.png",
+    "images/Pasted image 20250815103243.png",
+    "images/Pasted image 20250815103215.png",
     "Kemi/Electrochemistry/Oxidation numbers.md",
+    "images/Pasted image 20250815103005.png",
+    "Kemi/Thermodynamics/Free energy and equilibrium.md",
     "Kemi/Electrochemistry",
-    "images/Pasted image 20250815102015.png",
-    "images/Pasted image 20250815101846.png",
-    "images/Pasted image 20250815101717.png",
     "Kemi/Thermodynamics/Standard conditions.md",
     "Kemi/Intermolecular forces, liquids and solids/Phase diagrams.md",
     "Kemi/Thermodynamics",
@@ -275,7 +276,6 @@
     "Kemi/Molecular structures and bond energy/Covalent bonding and the octet rule.md",
     "Kemi/Molecular structures and bond energy/Energi and ionic bonds.md",
     "Kemi/Molecular structures and bond energy/Energy and covalent bonds.md",
-    "Kemi/Molecular structures and bond energy/Lewis structures.md",
     "Kemi/Buffers/Untitled",
     "Kemi/Buffers",
     "Kemi/Untitled.canvas",
