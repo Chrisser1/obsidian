@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Electrochemistry/Balancing Redox Reactions.md",
+                "file": "Kemi/Electrochemistry/Voltaic cells.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Balancing Redox Reactions"
+              "title": "Voltaic cells"
             }
           }
         ],
@@ -238,19 +238,20 @@
   },
   "active": "682c77162effad6b",
   "lastOpenFiles": [
+    "images/Pasted image 20250815112110.png",
+    "Kemi/Electrochemistry/Balancing Redox Reactions.md",
+    "Kemi/Electrochemistry/Voltaic cells.md",
+    "images/Pasted image 20250815112000.png",
+    "images/Pasted image 20250815111903.png",
+    "images/Pasted image 20250815111821.png",
+    "images/Pasted image 20250815111742.png",
+    "images/Pasted image 20250815111636.png",
+    "images/Pasted image 20250815111418.png",
     "images/Pasted image 20250815110741.png",
     "images/Pasted image 20250815110721.png",
     "images/Pasted image 20250815110549.png",
     "images/Pasted image 20250815105050.png",
-    "images/Pasted image 20250815104908.png",
-    "images/Pasted image 20250815104611.png",
     "Kemi/Electrochemistry/Types of redox reactions.md",
-    "Kemi/Electrochemistry/Balancing Redox Reactions.md",
-    "images/Pasted image 20250815103629.png",
-    "images/Pasted image 20250815103552.png",
-    "images/Pasted image 20250815103541.png",
-    "images/Pasted image 20250815103455.png",
-    "images/Pasted image 20250815103436.png",
     "Kemi/Electrochemistry/Oxidation numbers.md",
     "Kemi/Thermodynamics/Free energy and equilibrium.md",
     "Kemi/Electrochemistry",
@@ -275,7 +276,6 @@
     "Kemi/Quantum mechanics/Electron configurations and valence electrons.md",
     "Kemi/Quantum mechanics/Electron configuration and the periodic table.md",
     "Kemi/Molecular structures and bond energy/Covalent bonding and the octet rule.md",
-    "Kemi/Molecular structures and bond energy/Energi and ionic bonds.md",
     "Kemi/Buffers/Untitled",
     "Kemi/Buffers",
     "Kemi/Untitled.canvas",

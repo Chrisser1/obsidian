@@ -12,4 +12,14 @@
 ### Example
 ![[Pasted image 20250815110741.png]]
 
-## Balancing equations involving water neutral and acidic solutions
+## Balancing equations involving water, neutral and acidic solutions
+![[Pasted image 20250815111418.png]]
+
+### Example 
+![[Pasted image 20250815111636.png]]
+
+## Balancing equations involving water and basic solutions
+![[Pasted image 20250815111821.png]]
+![[Pasted image 20250815111903.png]]
+### Example
+![[Pasted image 20250815112000.png]]
