@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "unimolecular",
+                "query": "bimole",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,10 +182,10 @@
   },
   "active": "f04814b20790dcbd",
   "lastOpenFiles": [
-    "Kemi/Kinetics/The rate laws.md",
-    "Kemi/Kinetics/Reaction rates.md",
     "Kemi/Kinetics/Integrated rate laws.md",
     "Kemi/Kinetics/Rates and reaction mechanisms.md",
+    "Kemi/Kinetics/The rate laws.md",
+    "Kemi/Kinetics/Reaction rates.md",
     "Kemi/Kinetics/Energies and reaction rates.md",
     "Kemi/Solitions/Colligative properties.md",
     "Kemi/Solitions/Boiling point.md",
