@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Solitions/Colligative properties.md",
+                "file": "Kemi/Kinetics/The rate laws.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Colligative properties"
+              "title": "The rate laws"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pressure",
+                "query": "reaction rate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,6 +181,10 @@
   },
   "active": "f04814b20790dcbd",
   "lastOpenFiles": [
+    "Kemi/Kinetics/Reaction rates.md",
+    "Kemi/Kinetics/Rates and reaction mechanisms.md",
+    "Kemi/Kinetics/Energies and reaction rates.md",
+    "Kemi/Solitions/Colligative properties.md",
     "Kemi/Solitions/Boiling point.md",
     "Kemi/Energy/Energy, work and heat.md",
     "images/Pasted image 20250815115802.png",
@@ -218,10 +221,6 @@
     "Kemi/Acids and bases/Autoionization and the pH scale.md",
     "Kemi/Acids and bases/Acid based conjugate pairs.md",
     "Kemi/Acids and bases",
-    "Kemi/Quantum mechanics/The wave nature of matter.md",
-    "Kemi/Quantum mechanics/The quantum model.md",
-    "Kemi/Quantum mechanics/The electromagnetic spectrum.md",
-    "Kemi/Quantum mechanics/Periodic properties of the elements.md",
     "Kemi/Solitions",
     "Kemi/Kinetics",
     "Kemi/Intermolecular forces, liquids and solids",
