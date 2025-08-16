@@ -13,72 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Quantum mechanics/Electron configuration and the periodic table.md",
+                "file": "Kemi/Energy/Energy, work and heat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Electron configuration and the periodic table"
-            }
-          },
-          {
-            "id": "9c9d94f0b0b721d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kemi/Molecular structures and bond energy/Energi and ionic bonds.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Energi and ionic bonds"
-            }
-          },
-          {
-            "id": "bec2b881f711ad1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kemi/Intermolecular forces, liquids and solids/Intermolecular forces.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Intermolecular forces"
-            }
-          },
-          {
-            "id": "33141918959d7b70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kemi/Molecular structures and bond energy/Energy and covalent bonds.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Energy and covalent bonds"
-            }
-          },
-          {
-            "id": "682c77162effad6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kemi/Solitions/Colligative properties.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Colligative properties"
+              "title": "Energy, work and heat"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "exo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -236,29 +180,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "682c77162effad6b",
+  "active": "f04814b20790dcbd",
   "lastOpenFiles": [
-    "Kemi/Solitions/Boiling point.md",
-    "Kemi/Solitions/Colligative properties.md",
-    "Kemi/Solitions/Concentration by percent.md",
-    "Kemi/Solitions/Determining ion concentration.md",
-    "Kemi/Solitions/Factors that affect solubility.md",
-    "Kemi/Solitions/Very dilute solutions.md",
-    "Kemi/Solitions/Molarity, molality and mole fraction.md",
-    "Kemi/Equilibrium/Equilibria involving Solvents, Pure Liquids, and Solids.md",
-    "Kemi/Intermolecular forces, liquids and solids/Vapor pressure and boiling point.md",
-    "Kemi/Energy/Energy, work and heat.md",
-    "Kemi/Intermolecular forces, liquids and solids/Enthalpy and phase changes.md",
-    "Kemi/Intermolecular forces, liquids and solids/Mixtures and solubility.md",
-    "Kemi/Kinetics/Energies and reaction rates.md",
-    "Kemi/Kinetics/Catalysts.md",
-    "Kemi/Electrochemistry/Cell potentials, spontaneity, free energy and equilibrium.md",
-    "Kemi/Intermolecular forces, liquids and solids/Phase diagrams.md",
-    "Kemi/Intermolecular forces, liquids and solids/Intermolecular forces.md",
-    "Kemi/Intermolecular forces, liquids and solids/Crystal lattices.md",
-    "Kemi/Intermolecular forces, liquids and solids/Classifying liquids and solids.md",
-    "Kemi/Electrochemistry/Balancing Redox Reactions.md",
-    "Kemi/Electrochemistry/Electrochemistry Applications.md",
     "images/Pasted image 20250815115802.png",
     "images/Pasted image 20250815115748.png",
     "images/Pasted image 20250815115717.png",
@@ -269,21 +192,41 @@
     "images/Pasted image 20250815115457.png",
     "images/Pasted image 20250815115434.png",
     "images/Pasted image 20250815115359.png",
+    "images/Pasted image 20250815115329.png",
+    "Kemi/Thermodynamics/Standard conditions.md",
+    "Kemi/Thermodynamics/Free energy and equilibrium.md",
+    "Kemi/Thermodynamics",
+    "Kemi/Solitions/Boiling point.md",
     "Kemi/Electrochemistry/Voltaic cells.md",
     "Kemi/Electrochemistry/Types of redox reactions.md",
     "Kemi/Electrochemistry/Oxidation numbers.md",
-    "Kemi/Thermodynamics/Free energy and equilibrium.md",
+    "Kemi/Electrochemistry/Electrochemistry Applications.md",
+    "Kemi/Electrochemistry/Cell potentials, spontaneity, free energy and equilibrium.md",
+    "Kemi/Electrochemistry/Balancing Redox Reactions.md",
     "Kemi/Electrochemistry",
-    "Kemi/Thermodynamics/Standard conditions.md",
-    "Kemi/Thermodynamics",
-    "Kemi/Buffers/Untitled",
+    "Kemi/Buffers/Preparing and using buffer solutions.md",
+    "Kemi/Buffers/Calculating pH Changes in Buffer Solutions.md",
+    "Kemi/Buffers/Buffers.md",
+    "Kemi/Buffers/Buffers solutions and pH.md",
     "Kemi/Buffers",
-    "Kemi/Untitled.canvas",
+    "Kemi/Acids and bases/Salt solutions and pH.md",
+    "Kemi/Acids and bases/Reactions.md",
+    "Kemi/Acids and bases/Measuring acid and base concentration.md",
+    "Kemi/Acids and bases/Introduction to acids and bases.md",
+    "Kemi/Acids and bases/Equilibrium reactions.md",
+    "Kemi/Acids and bases/Calculating pH and OH.md",
+    "Kemi/Acids and bases/Autoionization and the pH scale.md",
+    "Kemi/Acids and bases/Acid based conjugate pairs.md",
     "Kemi/Acids and bases",
-    "Kemi/Equilibrium",
-    "Kemi/Kinetics",
+    "Kemi/Quantum mechanics/The wave nature of matter.md",
+    "Kemi/Quantum mechanics/The quantum model.md",
+    "Kemi/Quantum mechanics/The electromagnetic spectrum.md",
+    "Kemi/Quantum mechanics/Periodic properties of the elements.md",
     "Kemi/Solitions",
+    "Kemi/Kinetics",
     "Kemi/Intermolecular forces, liquids and solids",
-    "Kemi/Molecular structures and bond energy"
+    "Kemi/Equilibrium",
+    "Kemi/Molecular structures and bond energy",
+    "Kemi/Quantum mechanics"
   ]
 }
