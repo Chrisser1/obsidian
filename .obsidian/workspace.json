@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Kinetics/The rate laws.md",
+                "file": "Kemi/Kinetics/Rates and reaction mechanisms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The rate laws"
+              "title": "Rates and reaction mechanisms"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reaction rate",
+                "query": "unimolecular",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,7 +182,9 @@
   },
   "active": "f04814b20790dcbd",
   "lastOpenFiles": [
+    "Kemi/Kinetics/The rate laws.md",
     "Kemi/Kinetics/Reaction rates.md",
+    "Kemi/Kinetics/Integrated rate laws.md",
     "Kemi/Kinetics/Rates and reaction mechanisms.md",
     "Kemi/Kinetics/Energies and reaction rates.md",
     "Kemi/Solitions/Colligative properties.md",
@@ -218,8 +221,6 @@
     "Kemi/Acids and bases/Introduction to acids and bases.md",
     "Kemi/Acids and bases/Equilibrium reactions.md",
     "Kemi/Acids and bases/Calculating pH and OH.md",
-    "Kemi/Acids and bases/Autoionization and the pH scale.md",
-    "Kemi/Acids and bases/Acid based conjugate pairs.md",
     "Kemi/Acids and bases",
     "Kemi/Solitions",
     "Kemi/Kinetics",
