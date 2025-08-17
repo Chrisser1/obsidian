@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Electrochemistry/Cell potentials, spontaneity, free energy and equilibrium.md",
+                "file": "Kemi/Electrochemistry/Types of redox reactions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cell potentials, spontaneity, free energy and equilibrium"
+              "title": "Types of redox reactions"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Nernst",
+                "query": "activ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,10 +180,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1986cd4b11db503c",
+  "active": "f04814b20790dcbd",
   "lastOpenFiles": [
-    "Kemi/Solitions/Determining ion concentration.md",
+    "Kemi/Electrochemistry/Disproportionation.md",
+    "Kemi/Electrochemistry/Types of redox reactions.md",
+    "Kemi/Electrochemistry/Voltaic cells.md",
+    "Kemi/Electrochemistry/Electrochemistry Applications.md",
     "Kemi/Electrochemistry/Cell potentials, spontaneity, free energy and equilibrium.md",
+    "Kemi/Solitions/Determining ion concentration.md",
     "Kemi/Solitions/Boiling point.md",
     "Kemi/Acids and bases/Autoionization and the pH scale.md",
     "Kemi/Buffers/Lewis Acids and Bases.md",
@@ -191,7 +195,6 @@
     "Kemi/Thermodynamics/Standard conditions.md",
     "Kemi/Thermodynamics/Free energy and equilibrium.md",
     "Kemi/Electrochemistry/Balancing Redox Reactions.md",
-    "Kemi/Electrochemistry/Electrochemistry Applications.md",
     "Kemi/Buffers/Calculating pH Changes in Buffer Solutions.md",
     "Kemi/Buffers/Buffers.md",
     "Kemi/Buffers/Buffers solutions and pH.md",
@@ -205,9 +208,6 @@
     "Kemi/Equilibrium/Using equilibrium expressions to predict change.md",
     "Kemi/Equilibrium/Le Chartelier's principle.md",
     "Kemi/Equilibrium/Equilibria involving Solvents, Pure Liquids, and Solids.md",
-    "Kemi/Equilibrium/Dynamic equilibrium.md",
-    "Kemi/Equilibrium/Gas equilibria.md",
-    "Kemi/Kinetics/The rate laws.md",
     "images/Pasted image 20250815115802.png",
     "images/Pasted image 20250815115748.png",
     "images/Pasted image 20250815115717.png",
