@@ -6,7 +6,11 @@
 
 ### Lead-acid batteries
 ![[Pasted image 20250815115359.png]]
+This calculation relies on one key piece of information and one principle of battery construction.
 
+1. **Voltage per Cell:** A single lead-acid cell produces a potential of approximately **2.0 V**.
+    
+2. **Series Connection:** In a battery, cells are connected in series to achieve a higher total voltage. When connected in series, the voltages of the individual cells add up.
 ## Lithium-ion batteries
 ![[Pasted image 20250815115434.png]]
 

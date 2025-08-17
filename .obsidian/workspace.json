@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "activ",
+                "query": "activit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,10 +182,10 @@
   },
   "active": "f04814b20790dcbd",
   "lastOpenFiles": [
-    "Kemi/Electrochemistry/Disproportionation.md",
-    "Kemi/Electrochemistry/Types of redox reactions.md",
-    "Kemi/Electrochemistry/Voltaic cells.md",
     "Kemi/Electrochemistry/Electrochemistry Applications.md",
+    "Kemi/Electrochemistry/Voltaic cells.md",
+    "Kemi/Electrochemistry/Types of redox reactions.md",
+    "Kemi/Electrochemistry/Disproportionation.md",
     "Kemi/Electrochemistry/Cell potentials, spontaneity, free energy and equilibrium.md",
     "Kemi/Solitions/Determining ion concentration.md",
     "Kemi/Solitions/Boiling point.md",
