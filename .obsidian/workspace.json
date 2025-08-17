@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Lewis",
+                "query": "concentration",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f04814b20790dcbd",
+  "active": "1986cd4b11db503c",
   "lastOpenFiles": [
     "Kemi/Energy/Gibs free energy.md",
     "Kemi/Thermodynamics/Standard conditions.md",
