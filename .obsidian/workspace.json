@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Energy/Gibs free energy.md",
+                "file": "Kemi/Buffers/Lewis Acids and Bases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gibs free energy"
+              "title": "Lewis Acids and Bases"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Gibs",
+                "query": "Lewis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,8 +180,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1986cd4b11db503c",
+  "active": "f04814b20790dcbd",
   "lastOpenFiles": [
+    "Kemi/Energy/Gibs free energy.md",
     "Kemi/Thermodynamics/Standard conditions.md",
     "Kemi/Thermodynamics/Free energy and equilibrium.md",
     "Kemi/Electrochemistry/Balancing Redox Reactions.md",
@@ -203,7 +204,6 @@
     "Kemi/Equilibrium/Equilibria involving Solvents, Pure Liquids, and Solids.md",
     "Kemi/Equilibrium/Dynamic equilibrium.md",
     "Kemi/Equilibrium/Gas equilibria.md",
-    "Kemi/Energy/Gibs free energy.md",
     "Kemi/Kinetics/The rate laws.md",
     "Kemi/Kinetics/Reaction rates.md",
     "Kemi/Kinetics/Rates and reaction mechanisms.md",
