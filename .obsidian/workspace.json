@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Buffers/Buffers solutions and pH.md",
+                "file": "Kemi/Intermolecular forces, liquids and solids/Mixtures and solubility.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Buffers solutions and pH"
+              "title": "Mixtures and solubility"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "buffer",
+                "query": "donor ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,6 +182,7 @@
   },
   "active": "f04814b20790dcbd",
   "lastOpenFiles": [
+    "Kemi/Buffers/Buffers solutions and pH.md",
     "Kemi/Acids and bases/Calculating pH and OH.md",
     "Kemi/Acids and bases/Introduction to acids and bases.md",
     "Kemi/Kinetics/Energies and reaction rates.md",
@@ -218,7 +219,6 @@
     "Kemi/Electrochemistry/Voltaic cells.md",
     "Kemi/Electrochemistry/Types of redox reactions.md",
     "Kemi/Electrochemistry/Oxidation numbers.md",
-    "Kemi/Electrochemistry/Electrochemistry Applications.md",
     "Kemi/Electrochemistry",
     "Kemi/Buffers",
     "Kemi/Acids and bases",
