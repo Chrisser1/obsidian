@@ -19,4 +19,5 @@
 ![[Pasted image 20250818111452.png]]
 
 ## Naming complex ions
-
+![[Pasted image 20250818125908.png]]
+![[Pasted image 20250818125926.png]]
