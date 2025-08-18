@@ -14,3 +14,9 @@
 ## Blast furnace
 ![[Pasted image 20250818104220.png]]
 
+## Aluminum
+![[Pasted image 20250818104352.png]]
+![[Pasted image 20250818104501.png]]
+
+### Example
+![[Pasted image 20250818104541.png]]
