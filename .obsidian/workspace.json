@@ -55,16 +55,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Organic chemistry/Nucleic acids.md",
+                "file": "Kemi/Quantum mechanics/Electron configurations and valence electrons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nucleic acids"
+              "title": "Electron configurations and valence electrons"
+            }
+          },
+          {
+            "id": "67a57510c1d3c1f8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Pasted image 20250818105410.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250818105410"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "valence band",
+                "query": "filli",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -222,8 +234,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e849a441c1e9076",
+  "active": "67a57510c1d3c1f8",
   "lastOpenFiles": [
+    "Kemi/Quantum mechanics/Electron configurations and valence electrons.md",
+    "Kemi/Metals, metalloids and modern materials/Coordination complexes.md",
+    "images/Pasted image 20250818105410.png",
+    "Kemi/Quantum mechanics/Electron configuration and the periodic table.md",
+    "02105-Algorithms-and-Data-Structures/week-6/Directed Graphs.md",
+    "Kemi/Metals, metalloids and modern materials/Properties of metals.md",
+    "Kemi/Metals, metalloids and modern materials/Properties of coordination complexes.md",
+    "Kemi/Metals, metalloids and modern materials/Metallurgy.md",
+    "Kemi/Organic chemistry/Nucleic acids.md",
     "images/Pasted image 20250818160133.png",
     "images/Pasted image 20250818160110.png",
     "images/Pasted image 20250818160053.png",
@@ -234,21 +255,14 @@
     "images/Pasted image 20250818155835.png",
     "images/Pasted image 20250818155701.png",
     "Kemi/Organic chemistry/Organic Structures.md",
-    "Kemi/Organic chemistry/Nucleic acids.md",
     "Kemi/Organic chemistry/Nitrogen-containing functional groups.md",
     "Kemi/Organic chemistry/Major functional groups.md",
     "Kemi/Organic chemistry/Carbohydrates and lipids.md",
     "Kemi/Organic chemistry/Amino acids and proteins.md",
-    "Kemi/Metals, metalloids and modern materials/Coordination complexes.md",
-    "Kemi/Metals, metalloids and modern materials/Metallurgy.md",
-    "Kemi/Metals, metalloids and modern materials/Properties of coordination complexes.md",
-    "Kemi/Metals, metalloids and modern materials/Properties of metals.md",
     "Kemi/Metals, metalloids and modern materials/valence band.md",
     "Kemi/Metals, metalloids and modern materials/Carbohydrates and lipids 1.md",
     "Kemi/Organic chemistry/Polymers and plastics.md",
     "Kemi/Organic chemistry/Organic chemistry and Carbon cycle.md",
-    "images/Pasted image 20250818155239.png",
-    "images/Pasted image 20250818155139.png",
     "Kemi/Organic chemistry",
     "Kemi/Electrochemistry/Types of redox reactions.md",
     "Kemi/Metals, metalloids and modern materials",
@@ -259,9 +273,6 @@
     "Kemi/Solitions/Determining ion concentration.md",
     "Kemi/Solitions/Boiling point.md",
     "Kemi/Acids and bases/Autoionization and the pH scale.md",
-    "Kemi/Buffers/Lewis Acids and Bases.md",
-    "Kemi/Energy/Gibs free energy.md",
-    "Kemi/Thermodynamics/Standard conditions.md",
     "Kemi/Thermodynamics",
     "Kemi/Electrochemistry",
     "Kemi/Buffers",
