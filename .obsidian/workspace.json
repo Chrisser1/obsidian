@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Metals, metalloids and modern materials/Properties of metals.md",
+                "file": "Kemi/Metals, metalloids and modern materials/Coordination complexes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Properties of metals"
+              "title": "Coordination complexes"
             }
           }
         ]
@@ -181,19 +181,20 @@
   },
   "active": "f04814b20790dcbd",
   "lastOpenFiles": [
-    "images/Pasted image 20250818105318.png",
-    "images/Pasted image 20250818105225.png",
-    "images/Pasted image 20250818105221.png",
-    "images/Pasted image 20250818105054.png",
-    "Kemi/Metals, metalloids and modern materials/Metallurgy.md",
+    "images/Pasted image 20250818110333.png",
     "Kemi/Metals, metalloids and modern materials/Properties of metals.md",
-    "images/Pasted image 20250818104541.png",
-    "images/Pasted image 20250818104501.png",
-    "images/Pasted image 20250818104426.png",
-    "images/Pasted image 20250818104352.png",
-    "images/Pasted image 20250818104220.png",
-    "images/Pasted image 20250818104018.png",
-    "images/Pasted image 20250818104004.png",
+    "Kemi/Metals, metalloids and modern materials/Coordination complexes.md",
+    "images/Pasted image 20250818110024.png",
+    "images/Pasted image 20250818105916.png",
+    "images/Pasted image 20250818105755.png",
+    "images/Pasted image 20250818105747.png",
+    "images/Pasted image 20250818105712.png",
+    "images/Pasted image 20250818105616.png",
+    "images/Pasted image 20250818105557.png",
+    "images/Pasted image 20250818105507.png",
+    "images/Pasted image 20250818105426.png",
+    "images/Pasted image 20250818105410.png",
+    "Kemi/Metals, metalloids and modern materials/Metallurgy.md",
     "Kemi/Electrochemistry/Types of redox reactions.md",
     "Kemi/Metals, metalloids and modern materials",
     "Kemi/Electrochemistry/Electrochemistry Applications.md",
@@ -217,7 +218,6 @@
     "Kemi/Acids and bases/Calculating pH and OH.md",
     "Kemi/Acids and bases/Introduction to acids and bases.md",
     "Kemi/Kinetics/Energies and reaction rates.md",
-    "Kemi/Acids and bases/Reactions.md",
     "Kemi/Thermodynamics",
     "Kemi/Electrochemistry",
     "Kemi/Buffers",
