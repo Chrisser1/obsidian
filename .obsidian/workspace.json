@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Metals, metalloids and modern materials/valence band.md",
+                "file": "Kemi/Metals, metalloids and modern materials/Coordination complexes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "valence band"
+              "title": "Coordination complexes"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "band",
+                "query": "ligand",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -235,8 +235,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e849a441c1e9076",
+  "active": "1986cd4b11db503c",
   "lastOpenFiles": [
+    "Kemi/Metals, metalloids and modern materials/valence band.md",
     "Kemi/Quantum mechanics/Electron configurations and valence electrons.md",
     "images/Pasted image 20250818105410.png",
     "Kemi/Metals, metalloids and modern materials/Coordination complexes.md",
@@ -260,7 +261,6 @@
     "Kemi/Organic chemistry/Major functional groups.md",
     "Kemi/Organic chemistry/Carbohydrates and lipids.md",
     "Kemi/Organic chemistry/Amino acids and proteins.md",
-    "Kemi/Metals, metalloids and modern materials/valence band.md",
     "Kemi/Metals, metalloids and modern materials/Carbohydrates and lipids 1.md",
     "Kemi/Organic chemistry/Polymers and plastics.md",
     "Kemi/Organic chemistry/Organic chemistry and Carbon cycle.md",
