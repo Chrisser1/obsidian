@@ -37,3 +37,17 @@
 ## Carbonyl groups
 ![[Pasted image 20250818150452.png]]
 
+## Aldehydes
+![[Pasted image 20250818150512.png]]
+
+## Ketones
+![[Pasted image 20250818150528.png]]
+
+## Carboxylic acids
+![[Pasted image 20250818150544.png]]
+
+## Esters
+![[Pasted image 20250818150617.png]]
+
+## Example
+![[Pasted image 20250818151416.png]]
