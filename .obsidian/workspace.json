@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Metals, metalloids and modern materials/valence band.md",
+                "file": "Kemi/Organic chemistry/Organic Structures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "valence band"
+              "title": "Organic Structures"
             }
           }
         ],
@@ -196,18 +196,21 @@
   },
   "active": "e6ce7d0743bc8215",
   "lastOpenFiles": [
-    "Kemi/Metals, metalloids and modern materials/Properties of coordination complexes.md",
+    "Kemi/Organic chemistry/Organic chemistry and Carbon cycle.md",
+    "Kemi/Organic chemistry/Organic Structures.md",
+    "images/Pasted image 20250818140227.png",
+    "images/Pasted image 20250818140133.png",
+    "images/Pasted image 20250818140046.png",
+    "images/Pasted image 20250818140022.png",
     "Kemi/Metals, metalloids and modern materials/valence band.md",
+    "Kemi/Organic chemistry",
+    "Kemi/Metals, metalloids and modern materials/Properties of coordination complexes.md",
     "images/Pasted image 20250818134139.png",
     "images/Pasted image 20250818134115.png",
     "images/Pasted image 20250818134027.png",
     "images/Pasted image 20250818133958.png",
     "images/Pasted image 20250818133913.png",
     "images/Pasted image 20250818133901.png",
-    "images/Pasted image 20250818133806.png",
-    "images/Pasted image 20250818133727.png",
-    "images/Pasted image 20250818133710.png",
-    "images/Pasted image 20250818133637.png",
     "Kemi/Metals, metalloids and modern materials/Coordination complexes.md",
     "Kemi/Metals, metalloids and modern materials/Metallurgy.md",
     "Kemi/Metals, metalloids and modern materials/Properties of metals.md",
@@ -231,8 +234,6 @@
     "Kemi/Buffers/Preparing and using buffer solutions.md",
     "Kemi/Molecular structures and bond energy/Lewis structures.md",
     "Kemi/Intermolecular forces, liquids and solids/Mixtures and solubility.md",
-    "Kemi/Acids and bases/Calculating pH and OH.md",
-    "Kemi/Acids and bases/Introduction to acids and bases.md",
     "Kemi/Thermodynamics",
     "Kemi/Electrochemistry",
     "Kemi/Buffers",
@@ -240,7 +241,6 @@
     "Kemi/Solitions",
     "Kemi/Kinetics",
     "Kemi/Intermolecular forces, liquids and solids",
-    "Kemi/Equilibrium",
-    "Kemi/Molecular structures and bond energy"
+    "Kemi/Equilibrium"
   ]
 }
