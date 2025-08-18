@@ -1,0 +1,1 @@
+The valence band is the energy band in a solid material that contains the electrons with the highest energy.
