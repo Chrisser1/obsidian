@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Organic chemistry/Organic Structures.md",
+                "file": "Kemi/Organic chemistry/Nucleic acids.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Organic Structures"
+              "title": "Nucleic acids"
             }
           }
         ],
@@ -224,6 +224,17 @@
   },
   "active": "3e849a441c1e9076",
   "lastOpenFiles": [
+    "images/Pasted image 20250818160133.png",
+    "images/Pasted image 20250818160110.png",
+    "images/Pasted image 20250818160053.png",
+    "images/Pasted image 20250818160029.png",
+    "images/Pasted image 20250818160000.png",
+    "images/Pasted image 20250818155949.png",
+    "images/Pasted image 20250818155911.png",
+    "images/Pasted image 20250818155835.png",
+    "images/Pasted image 20250818155701.png",
+    "Kemi/Organic chemistry/Organic Structures.md",
+    "Kemi/Organic chemistry/Nucleic acids.md",
     "Kemi/Organic chemistry/Nitrogen-containing functional groups.md",
     "Kemi/Organic chemistry/Major functional groups.md",
     "Kemi/Organic chemistry/Carbohydrates and lipids.md",
@@ -235,18 +246,9 @@
     "Kemi/Metals, metalloids and modern materials/valence band.md",
     "Kemi/Metals, metalloids and modern materials/Carbohydrates and lipids 1.md",
     "Kemi/Organic chemistry/Polymers and plastics.md",
-    "Kemi/Organic chemistry/Organic Structures.md",
     "Kemi/Organic chemistry/Organic chemistry and Carbon cycle.md",
     "images/Pasted image 20250818155239.png",
     "images/Pasted image 20250818155139.png",
-    "images/Pasted image 20250818155113.png",
-    "images/Pasted image 20250818155031.png",
-    "images/Pasted image 20250818155010.png",
-    "images/Pasted image 20250818154929.png",
-    "images/Pasted image 20250818154822.png",
-    "images/Pasted image 20250818154748.png",
-    "images/Pasted image 20250818154426.png",
-    "images/Pasted image 20250818154407.png",
     "Kemi/Organic chemistry",
     "Kemi/Electrochemistry/Types of redox reactions.md",
     "Kemi/Metals, metalloids and modern materials",
@@ -260,8 +262,6 @@
     "Kemi/Buffers/Lewis Acids and Bases.md",
     "Kemi/Energy/Gibs free energy.md",
     "Kemi/Thermodynamics/Standard conditions.md",
-    "Kemi/Thermodynamics/Free energy and equilibrium.md",
-    "Kemi/Electrochemistry/Balancing Redox Reactions.md",
     "Kemi/Thermodynamics",
     "Kemi/Electrochemistry",
     "Kemi/Buffers",
