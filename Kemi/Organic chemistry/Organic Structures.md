@@ -15,3 +15,12 @@
 
 ### Example 
 ![[Pasted image 20250818141429.png]]
+![[Pasted image 20250818141446.png]]
+
+## Geometric isomers, enantiomers and diastereomers
+![[Pasted image 20250818142036.png]]
+![[Pasted image 20250818141734.png]]
+![[Pasted image 20250818141827.png]]
+![[Pasted image 20250818141854.png]]
+![[Pasted image 20250818142014.png]]
+
