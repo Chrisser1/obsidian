@@ -21,4 +21,9 @@
 ## Naming complex ions
 ![[Pasted image 20250818125908.png]]
 ![[Pasted image 20250818125926.png]]
-![[Pasted image 20250818131352.png]]
+![[Pasted image 20250818131759.png]]
+
+## Chelation
+![[Pasted image 20250818132237.png]]
+## Monodentate, bidentate and tridentate
+![[Pasted image 20250818132247.png]]
