@@ -16,4 +16,7 @@
 ![[Pasted image 20250818111115.png]]
 
 ### Example
+![[Pasted image 20250818111452.png]]
+
+## Naming complex ions
 
