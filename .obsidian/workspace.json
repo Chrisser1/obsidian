@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Metals, metalloids and modern materials/Coordination complexes.md",
+                "file": "Kemi/Metals, metalloids and modern materials/Properties of coordination complexes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coordination complexes"
+              "title": "Properties of coordination complexes"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "activit",
+                "query": "valence band",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,23 +195,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e6ce7d0743bc8215",
+  "active": "1986cd4b11db503c",
   "lastOpenFiles": [
-    "images/Pasted image 20250818133336.png",
-    "images/Pasted image 20250818133325.png",
-    "Kemi/Metals, metalloids and modern materials/Metallurgy.md",
+    "images/Pasted image 20250818134139.png",
+    "images/Pasted image 20250818134115.png",
+    "images/Pasted image 20250818134027.png",
+    "images/Pasted image 20250818133958.png",
+    "images/Pasted image 20250818133913.png",
+    "images/Pasted image 20250818133901.png",
+    "images/Pasted image 20250818133806.png",
+    "images/Pasted image 20250818133727.png",
+    "images/Pasted image 20250818133710.png",
+    "images/Pasted image 20250818133637.png",
     "Kemi/Metals, metalloids and modern materials/Coordination complexes.md",
+    "Kemi/Metals, metalloids and modern materials/Properties of coordination complexes.md",
+    "images/Pasted image 20250818133336.png",
+    "Kemi/Metals, metalloids and modern materials/Metallurgy.md",
     "Kemi/Metals, metalloids and modern materials/Properties of metals.md",
-    "images/Pasted image 20250818132616.png",
-    "images/Pasted image 20250818132247.png",
-    "images/Pasted image 20250818132237.png",
-    "Kemi/Metals, metalloids and modern materials/Untitled.md",
-    "images/Pasted image 20250818125908.png",
-    "images/Pasted image 20250818131759.png",
-    "images/Pasted image 20250818131352.png",
-    "images/Pasted image 20250818125926.png",
-    "images/Pasted image 20250818111452.png",
-    "images/Pasted image 20250818111451.png",
     "Kemi/Electrochemistry/Types of redox reactions.md",
     "Kemi/Metals, metalloids and modern materials",
     "Kemi/Electrochemistry/Electrochemistry Applications.md",
