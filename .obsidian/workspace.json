@@ -39,12 +39,14 @@
             "id": "f57716dafcdd0aae",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20250818125908.png"
+                "file": "Kemi/Organic chemistry/Major functional groups.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250818125908"
+              "icon": "lucide-file",
+              "title": "Major functional groups"
             }
           }
         ],
@@ -208,7 +210,13 @@
   },
   "active": "f57716dafcdd0aae",
   "lastOpenFiles": [
+    "images/Pasted image 20250818145432.png",
+    "images/Pasted image 20250818145400.png",
+    "images/Pasted image 20250818145347.png",
+    "images/Pasted image 20250818145238.png",
     "Kemi/Metals, metalloids and modern materials/Coordination complexes.md",
+    "Kemi/Organic chemistry/Major functional groups.md",
+    "images/Pasted image 20250818125908.png",
     "Kemi/Metals, metalloids and modern materials/Properties of coordination complexes.md",
     "Kemi/Metals, metalloids and modern materials/Metallurgy.md",
     "Kemi/Organic chemistry/Organic Structures.md",
@@ -218,10 +226,6 @@
     "images/Pasted image 20250818141854.png",
     "images/Pasted image 20250818141827.png",
     "images/Pasted image 20250818141734.png",
-    "images/Pasted image 20250818141514.png",
-    "images/Pasted image 20250818141446.png",
-    "images/Pasted image 20250818141429.png",
-    "images/Pasted image 20250818141019.png",
     "Kemi/Organic chemistry/Organic chemistry and Carbon cycle.md",
     "Kemi/Metals, metalloids and modern materials/valence band.md",
     "Kemi/Organic chemistry",
@@ -244,7 +248,6 @@
     "Kemi/Buffers/Buffers.md",
     "Kemi/Buffers/Buffers solutions and pH.md",
     "Kemi/Buffers/Preparing and using buffer solutions.md",
-    "Kemi/Molecular structures and bond energy/Lewis structures.md",
     "Kemi/Thermodynamics",
     "Kemi/Electrochemistry",
     "Kemi/Buffers",
