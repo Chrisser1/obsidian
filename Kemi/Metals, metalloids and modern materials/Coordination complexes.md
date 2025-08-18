@@ -21,3 +21,4 @@
 ## Naming complex ions
 ![[Pasted image 20250818125908.png]]
 ![[Pasted image 20250818125926.png]]
+![[Pasted image 20250818131352.png]]
