@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Organic chemistry/Polymers and plastics.md",
+                "file": "Kemi/Metals, metalloids and modern materials/Carbohydrates and lipids.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Polymers and plastics"
+              "title": "Carbohydrates and lipids"
             }
           }
         ],
@@ -224,22 +224,23 @@
   },
   "active": "3e849a441c1e9076",
   "lastOpenFiles": [
+    "images/Pasted image 20250818153009.png",
+    "Kemi/Metals, metalloids and modern materials/Coordination complexes.md",
+    "Kemi/Metals, metalloids and modern materials/Carbohydrates and lipids.md",
+    "Kemi/Organic chemistry/Polymers and plastics.md",
     "images/Pasted image 20250818152345.png",
     "images/Pasted image 20250818152315.png",
     "images/Pasted image 20250818152253.png",
     "images/Pasted image 20250818152224.png",
     "images/Pasted image 20250818152157.png",
     "Kemi/Organic chemistry/Nitrogen-containing functional groups.md",
-    "Kemi/Organic chemistry/Polymers and plastics.md",
     "images/Pasted image 20250818151649.png",
     "images/Pasted image 20250818151635.png",
     "images/Pasted image 20250818151613.png",
     "images/Pasted image 20250818151552.png",
     "images/Pasted image 20250818151533.png",
-    "images/Pasted image 20250818151451.png",
     "Kemi/Organic chemistry/Major functional groups.md",
     "Kemi/Organic chemistry/Organic Structures.md",
-    "Kemi/Metals, metalloids and modern materials/Coordination complexes.md",
     "Kemi/Metals, metalloids and modern materials/Properties of coordination complexes.md",
     "Kemi/Metals, metalloids and modern materials/Properties of metals.md",
     "Kemi/Metals, metalloids and modern materials/Metallurgy.md",
@@ -261,7 +262,6 @@
     "Kemi/Thermodynamics/Free energy and equilibrium.md",
     "Kemi/Electrochemistry/Balancing Redox Reactions.md",
     "Kemi/Buffers/Calculating pH Changes in Buffer Solutions.md",
-    "Kemi/Buffers/Buffers.md",
     "Kemi/Thermodynamics",
     "Kemi/Electrochemistry",
     "Kemi/Buffers",
