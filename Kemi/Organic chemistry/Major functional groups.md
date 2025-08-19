@@ -53,3 +53,9 @@ To satisfy the valency of the carbon atoms, a new bond is formed between them, r
 
 ## Example
 ![[Pasted image 20250818151416.png]]
+
+- **Identify Reactant and Product**: The starting material is **2-heptyne**, an alkyne which contains a carbon-carbon triple bond (C≡C). The final product is **heptane**, an alkane which contains only carbon-carbon single bonds (C−C).
+    
+- **Analyze the Transformation**: To convert a triple bond into a single bond, you must add a total of four hydrogen atoms to the two carbons that form the triple bond. This process is called **hydrogenation**.
+    
+- **Required Reagents**: The hydrogenation of an alkyne to an alkane requires **hydrogen gas (H2​)** and a metal catalyst (such as palladium (Pd), platinum (Pt), or nickel (Ni)). Using **excess** H2​ ensures that the reaction proceeds all the way to the alkane, rather than stopping at the intermediate alkene stage.
