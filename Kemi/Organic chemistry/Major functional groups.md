@@ -30,7 +30,9 @@
 
 ## Alcohols
 ![[Pasted image 20250818150405.png]]
+**Dehydration** means the removal of a water molecule (H2​O). In an alcohol dehydration reaction, the hydroxyl group (–OH) is removed from one carbon atom, and a hydrogen atom (–H) is removed from an adjacent carbon atom.
 
+To satisfy the valency of the carbon atoms, a new bond is formed between them, resulting in a **carbon-carbon double bond (C=C)**. The functional group characterized by a C=C double bond is an **alkene**.
 ## Ether
 ![[Pasted image 20250818150426.png]]
 
