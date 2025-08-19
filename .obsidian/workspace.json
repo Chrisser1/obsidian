@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Metals, metalloids and modern materials/Properties of coordination complexes.md",
+                "file": "Kemi/Organic chemistry/Major functional groups.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Properties of coordination complexes"
+              "title": "Major functional groups"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "alk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -239,6 +239,7 @@
   },
   "active": "1986cd4b11db503c",
   "lastOpenFiles": [
+    "Kemi/Metals, metalloids and modern materials/Properties of coordination complexes.md",
     "Kemi/Metals, metalloids and modern materials/valence band.md",
     "Kemi/Quantum mechanics/Paramagnetic and Diamagnetic.md",
     "Kemi/Solitions/Colligative properties.md",
@@ -262,7 +263,6 @@
     "Kemi/Organic chemistry/Amino acids and proteins.md",
     "Kemi/Organic chemistry",
     "Kemi/Metals, metalloids and modern materials/Properties of metals.md",
-    "Kemi/Metals, metalloids and modern materials/Properties of coordination complexes.md",
     "Kemi/Metals, metalloids and modern materials/Metallurgy.md",
     "Kemi/Metals, metalloids and modern materials/Coordination complexes.md",
     "Kemi/Metals, metalloids and modern materials",
