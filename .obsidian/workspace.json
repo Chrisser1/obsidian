@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Metals, metalloids and modern materials/Coordination complexes.md",
+                "file": "Kemi/Quantum mechanics/The electromagnetic spectrum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coordination complexes"
+              "title": "The electromagnetic spectrum"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ligand",
+                "query": "wave",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -235,14 +235,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1986cd4b11db503c",
+  "active": "3e849a441c1e9076",
   "lastOpenFiles": [
+    "Kemi/Metals, metalloids and modern materials/Coordination complexes.md",
     "images/Pasted image 20250819131211.png",
     "Kemi/Quantum mechanics/Paramagnetic and Diamagnetic.md",
     "Kemi/Metals, metalloids and modern materials/valence band.md",
     "Kemi/Quantum mechanics/Electron configurations and valence electrons.md",
     "images/Pasted image 20250818105410.png",
-    "Kemi/Metals, metalloids and modern materials/Coordination complexes.md",
     "Kemi/Quantum mechanics/Electron configuration and the periodic table.md",
     "02105-Algorithms-and-Data-Structures/week-6/Directed Graphs.md",
     "Kemi/Metals, metalloids and modern materials/Properties of metals.md",
@@ -257,7 +257,6 @@
     "images/Pasted image 20250818155949.png",
     "images/Pasted image 20250818155911.png",
     "images/Pasted image 20250818155835.png",
-    "images/Pasted image 20250818155701.png",
     "Kemi/Organic chemistry/Organic Structures.md",
     "Kemi/Organic chemistry/Nitrogen-containing functional groups.md",
     "Kemi/Organic chemistry/Major functional groups.md",
