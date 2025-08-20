@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Organic chemistry/Major functional groups.md",
+                "file": "Kemi/Organic chemistry/Amino acids and proteins.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Major functional groups"
+              "title": "Amino acids and proteins"
             }
           }
         ],
@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Hydroxyl",
+                "query": "amino",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -257,11 +257,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1986cd4b11db503c",
+  "active": "e32ca718861e243b",
   "lastOpenFiles": [
+    "Kemi/Organic chemistry/Major functional groups.md",
     "Kemi/Organic chemistry/Carbohydrates and lipids.md",
     "Kemi/Organic chemistry/Amino acids and proteins.md",
-    "Kemi/Organic chemistry/Major functional groups.md",
     "images/Pasted image 20250819131211.png",
     "Kemi/Organic chemistry/Nucleic acids.md",
     "Kemi/Metals, metalloids and modern materials/Properties of coordination complexes.md",
