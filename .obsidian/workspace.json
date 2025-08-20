@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Quantum mechanics/The electromagnetic spectrum.md",
+                "file": "Kemi/Molecular structures and bond energy/Covalent bonding and the octet rule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The electromagnetic spectrum"
+              "title": "Covalent bonding and the octet rule"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wave",
+                "query": "octet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -237,6 +237,8 @@
   },
   "active": "3e849a441c1e9076",
   "lastOpenFiles": [
+    "Kemi/Energy/Gibs free energy.md",
+    "Kemi/Quantum mechanics/The electromagnetic spectrum.md",
     "Kemi/Metals, metalloids and modern materials/Coordination complexes.md",
     "images/Pasted image 20250819131211.png",
     "Kemi/Quantum mechanics/Paramagnetic and Diamagnetic.md",
@@ -273,7 +275,6 @@
     "Kemi/Electrochemistry/Disproportionation.md",
     "Kemi/Electrochemistry/Cell potentials, spontaneity, free energy and equilibrium.md",
     "Kemi/Solitions/Determining ion concentration.md",
-    "Kemi/Solitions/Boiling point.md",
     "Kemi/Thermodynamics",
     "Kemi/Electrochemistry",
     "Kemi/Buffers",
