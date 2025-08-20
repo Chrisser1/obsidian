@@ -102,6 +102,29 @@
     "type": "split",
     "children": [
       {
+        "id": "3cd8f00708a1ff53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1986cd4b11db503c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Hydroxyl",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      },
+      {
         "id": "ba4b06ccedf0536f",
         "type": "tabs",
         "children": [
@@ -116,23 +139,6 @@
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
-            }
-          },
-          {
-            "id": "1986cd4b11db503c",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "amino",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
             }
           },
           {
@@ -251,7 +257,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e32ca718861e243b",
+  "active": "1986cd4b11db503c",
   "lastOpenFiles": [
     "Kemi/Organic chemistry/Carbohydrates and lipids.md",
     "Kemi/Organic chemistry/Amino acids and proteins.md",
