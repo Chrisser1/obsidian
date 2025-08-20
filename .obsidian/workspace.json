@@ -13,86 +13,70 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Quantum mechanics/Electron configuration and the periodic table.md",
+                "file": "Kemi/Metals, metalloids and modern materials/Coordination complexes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Electron configuration and the periodic table"
+              "title": "Coordination complexes"
             }
           },
           {
-            "id": "9c9d94f0b0b721d0",
+            "id": "e6ce7d0743bc8215",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Molecular structures and bond energy/Energi and ionic bonds.md",
+                "file": "Kemi/Metals, metalloids and modern materials/Coordination complexes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Energi and ionic bonds"
+              "title": "Coordination complexes"
             }
           },
           {
-            "id": "bec2b881f711ad1d",
+            "id": "f57716dafcdd0aae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Intermolecular forces, liquids and solids/Intermolecular forces.md",
+                "file": "Kemi/Metals, metalloids and modern materials/Coordination complexes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intermolecular forces"
+              "title": "Coordination complexes"
             }
           },
           {
-            "id": "33141918959d7b70",
+            "id": "3e849a441c1e9076",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Molecular structures and bond energy/Energy and covalent bonds.md",
+                "file": "Kemi/Metals, metalloids and modern materials/Coordination complexes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Energy and covalent bonds"
+              "title": "Coordination complexes"
             }
           },
           {
-            "id": "682c77162effad6b",
+            "id": "67a57510c1d3c1f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Kemi/Organic chemistry/Major functional groups.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Pasted image 20250818105410.png"
               },
-              "icon": "lucide-file",
-              "title": "Major functional groups"
-            }
-          },
-          {
-            "id": "e32ca718861e243b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kemi/Organic chemistry/Amino acids and proteins.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Amino acids and proteins"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250818105410"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -101,29 +85,6 @@
     "id": "d6ce4f22b785d047",
     "type": "split",
     "children": [
-      {
-        "id": "3cd8f00708a1ff53",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1986cd4b11db503c",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "amino",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          }
-        ]
-      },
       {
         "id": "ba4b06ccedf0536f",
         "type": "tabs",
@@ -142,6 +103,23 @@
             }
           },
           {
+            "id": "1986cd4b11db503c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ligand",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
             "id": "100a9f0064b25fc5",
             "type": "leaf",
             "state": {
@@ -151,7 +129,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -247,7 +226,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -257,17 +235,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e32ca718861e243b",
+  "active": "1986cd4b11db503c",
   "lastOpenFiles": [
-    "Kemi/Organic chemistry/Major functional groups.md",
-    "Kemi/Organic chemistry/Carbohydrates and lipids.md",
-    "Kemi/Organic chemistry/Amino acids and proteins.md",
     "images/Pasted image 20250819131211.png",
-    "Kemi/Organic chemistry/Nucleic acids.md",
-    "Kemi/Metals, metalloids and modern materials/Properties of coordination complexes.md",
-    "Kemi/Metals, metalloids and modern materials/valence band.md",
     "Kemi/Quantum mechanics/Paramagnetic and Diamagnetic.md",
-    "Kemi/Solitions/Colligative properties.md",
+    "Kemi/Metals, metalloids and modern materials/valence band.md",
+    "Kemi/Quantum mechanics/Electron configurations and valence electrons.md",
+    "images/Pasted image 20250818105410.png",
+    "Kemi/Metals, metalloids and modern materials/Coordination complexes.md",
+    "Kemi/Quantum mechanics/Electron configuration and the periodic table.md",
+    "02105-Algorithms-and-Data-Structures/week-6/Directed Graphs.md",
+    "Kemi/Metals, metalloids and modern materials/Properties of metals.md",
+    "Kemi/Metals, metalloids and modern materials/Properties of coordination complexes.md",
+    "Kemi/Metals, metalloids and modern materials/Metallurgy.md",
+    "Kemi/Organic chemistry/Nucleic acids.md",
     "images/Pasted image 20250818160133.png",
     "images/Pasted image 20250818160110.png",
     "images/Pasted image 20250818160053.png",
@@ -277,33 +258,30 @@
     "images/Pasted image 20250818155911.png",
     "images/Pasted image 20250818155835.png",
     "images/Pasted image 20250818155701.png",
-    "Kemi/Organic chemistry/Polymers and plastics.md",
-    "Kemi/Organic chemistry/Organic chemistry and Carbon cycle.md",
     "Kemi/Organic chemistry/Organic Structures.md",
     "Kemi/Organic chemistry/Nitrogen-containing functional groups.md",
+    "Kemi/Organic chemistry/Major functional groups.md",
+    "Kemi/Organic chemistry/Carbohydrates and lipids.md",
+    "Kemi/Organic chemistry/Amino acids and proteins.md",
+    "Kemi/Metals, metalloids and modern materials/Carbohydrates and lipids 1.md",
+    "Kemi/Organic chemistry/Polymers and plastics.md",
+    "Kemi/Organic chemistry/Organic chemistry and Carbon cycle.md",
     "Kemi/Organic chemistry",
-    "Kemi/Metals, metalloids and modern materials/Properties of metals.md",
-    "Kemi/Metals, metalloids and modern materials/Metallurgy.md",
-    "Kemi/Metals, metalloids and modern materials/Coordination complexes.md",
+    "Kemi/Electrochemistry/Types of redox reactions.md",
     "Kemi/Metals, metalloids and modern materials",
+    "Kemi/Electrochemistry/Electrochemistry Applications.md",
+    "Kemi/Electrochemistry/Voltaic cells.md",
     "Kemi/Electrochemistry/Disproportionation.md",
-    "Kemi/Buffers/Lewis Acids and Bases.md",
-    "Kemi/Solitions/Boiling point.md",
-    "Kemi/Solitions/Concentration by percent.md",
+    "Kemi/Electrochemistry/Cell potentials, spontaneity, free energy and equilibrium.md",
     "Kemi/Solitions/Determining ion concentration.md",
-    "Kemi/Solitions/Factors that affect solubility.md",
-    "Kemi/Solitions/Very dilute solutions.md",
-    "Kemi/Solitions/Molarity, molality and mole fraction.md",
-    "Kemi/Equilibrium/Equilibria involving Solvents, Pure Liquids, and Solids.md",
-    "Kemi/Intermolecular forces, liquids and solids/Vapor pressure and boiling point.md",
-    "Kemi/Electrochemistry",
+    "Kemi/Solitions/Boiling point.md",
     "Kemi/Thermodynamics",
-    "Kemi/Buffers/Untitled",
+    "Kemi/Electrochemistry",
     "Kemi/Buffers",
-    "Kemi/Untitled.canvas",
     "Kemi/Acids and bases",
-    "Kemi/Equilibrium",
+    "Kemi/Solitions",
     "Kemi/Kinetics",
-    "Kemi/Solitions"
+    "Kemi/Intermolecular forces, liquids and solids",
+    "Kemi/Equilibrium"
   ]
 }
