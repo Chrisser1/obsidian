@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemi/Kinetics/Integrated rate laws.md",
+                "file": "Kemi/Metals, metalloids and modern materials/Coordination complexes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Integrated rate laws"
+              "title": "Coordination complexes"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "heat",
+                "query": "oct",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -235,10 +235,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e849a441c1e9076",
+  "active": "8e8424c02fdc53e0",
   "lastOpenFiles": [
-    "Kemi/Kinetics/Half-life and radioactive decay.md",
     "Kemi/Kinetics/Energies and reaction rates.md",
+    "Kemi/Kinetics/Catalysts.md",
+    "Kemi/Electrochemistry/Cell potentials, spontaneity, free energy and equilibrium.md",
+    "Kemi/Kinetics/Integrated rate laws.md",
+    "Kemi/Kinetics/Half-life and radioactive decay.md",
     "Kemi/Energy/Energy, work and heat.md",
     "Kemi/Metals, metalloids and modern materials/Metallurgy.md",
     "Kemi/Metals, metalloids and modern materials/Coordination complexes.md",
@@ -262,8 +265,6 @@
     "Kemi/Quantum mechanics/Electron configurations and valence electrons.md",
     "images/Pasted image 20250818105410.png",
     "Kemi/Quantum mechanics/Electron configuration and the periodic table.md",
-    "02105-Algorithms-and-Data-Structures/week-6/Directed Graphs.md",
-    "Kemi/Organic chemistry/Nucleic acids.md",
     "images/Pasted image 20250818160133.png",
     "images/Pasted image 20250818160110.png",
     "images/Pasted image 20250818160053.png",
@@ -272,7 +273,6 @@
     "images/Pasted image 20250818155949.png",
     "images/Pasted image 20250818155911.png",
     "images/Pasted image 20250818155835.png",
-    "Kemi/Organic chemistry/Organic Structures.md",
     "Kemi/Organic chemistry",
     "Kemi/Metals, metalloids and modern materials",
     "Kemi/Thermodynamics",
